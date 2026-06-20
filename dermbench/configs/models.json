@@ -14,8 +14,8 @@
     "manifest": "data/manifest/dermbench_test.jsonl",
     "cot_root": "data/cot",
     "image_field": "dermnet_image_path",
-    "candidate_prompt": "prompts/candidate_generation.txt",
-    "judge_prompt": "prompts/dermbench_judge.txt"
+    "candidate_prompt": "dermbench/prompts/candidate_generation.txt",
+    "judge_prompt": "dermbench/prompts/dermbench_judge.txt"
   },
   "candidate_models_reported_in_paper": [
     "Gemini-2.5 Flash",

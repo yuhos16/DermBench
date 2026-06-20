@@ -21,7 +21,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Generate DermBench candidate narratives with OpenAI.")
     parser.add_argument("--manifest", default="data/manifest/dermbench_test.jsonl")
     parser.add_argument("--image-root", required=True, help="Local root of the DermNet test images.")
-    parser.add_argument("--prompt", default="prompts/candidate_generation.txt")
+    parser.add_argument("--prompt", default="dermbench/prompts/candidate_generation.txt")
     parser.add_argument("--output", default="outputs/candidates.jsonl")
     parser.add_argument("--model", default=os.getenv("OPENAI_MODEL", "gpt-4o-mini"))
     parser.add_argument("--limit", type=int, default=None)

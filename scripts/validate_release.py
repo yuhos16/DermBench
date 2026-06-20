@@ -51,10 +51,10 @@ def main() -> int:
         if args.image_root and not case.image_file(args.image_root).exists():
             errors.append(f"missing external DermNet image: {case.image_file(args.image_root)}")
 
-    config_path = Path("configs/models.json")
+    config_path = Path("dermbench/configs/models.json")
     prompt_paths = [
-        Path("prompts/candidate_generation.txt"),
-        Path("prompts/dermbench_judge.txt"),
+        Path("dermbench/prompts/candidate_generation.txt"),
+        Path("dermbench/prompts/dermbench_judge.txt"),
     ]
     for path in prompt_paths + [config_path]:
         if not path.exists():
@@ -64,7 +64,7 @@ def main() -> int:
         config = json.loads(config_path.read_text(encoding="utf-8"))
         configured_metrics = config.get("metrics", [])
         if configured_metrics != METRICS:
-            errors.append("configs/models.json metric order does not match dermbench.scoring.METRICS")
+            errors.append("dermbench/configs/models.json metric order does not match dermbench.scoring.METRICS")
 
     if errors:
         for error in errors:

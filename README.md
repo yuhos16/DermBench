@@ -1,4 +1,4 @@
-# DermBench
+# 🧴 DermBench
 
 ![DermBench overview](assets/introduction.png)
 
@@ -6,18 +6,17 @@ DermBench is the reference-based benchmark component from **Towards Trustworthy 
 
 This repository contains the DermBench text release and supporting utilities. It does **not** redistribute DermNet images.
 
-## Contents
+## 📦 Contents
 
-- `data/cot/`: 4000 clinician-certified dermatology diagnostic CoT/reference texts.
-- `data/manifest/dermbench_test.jsonl`: mapping from each CoT text to the corresponding DermNet test-set image path.
-- `prompts/`: the standardized candidate-generation and DermBench judge prompts.
+- `data/`: 4000 CoT/reference texts, manifest, category counts, and source audit.
+- `dermbench/`: lightweight Python helpers plus benchmark prompts/config.
 - `scripts/`: validation and optional local evaluation utilities.
-- `configs/models.json`: metric order and benchmark settings.
-- `dermeval/`: placeholder for the DermEval component.
+- `docs/`: data mapping, scoring criteria, DermNet notice, and DermEval placeholder.
+- `assets/`: README figure.
 
 The CoT files were prepared from the source text tree `Dermnet2/step4_txt/test`. Candidate model outputs, result files, and legacy runner scripts are intentionally excluded.
 
-## Data Mapping
+## 🧭 Data Mapping
 
 Each JSONL row has this shape:
 
@@ -55,7 +54,7 @@ Official DermNet links:
 - DermNet image licence: https://dermnetnz.org/image-licence
 - DermNet website terms: https://dermnetnz.org/terms
 
-## Scoring Metrics
+## 📏 Scoring Metrics
 
 DermBench scores each candidate narrative on six 0-5 dimensions:
 
@@ -66,9 +65,9 @@ DermBench scores each candidate narrative on six 0-5 dimensions:
 - Reasoning Coherence
 - Description Precision
 
-The metric order is fixed in `configs/models.json` and `dermbench/scoring.py`.
+The metric order is fixed in `dermbench/configs/models.json` and `dermbench/scoring.py`.
 
-## Setup
+## ⚙️ Setup
 
 ```bash
 conda env create -f environment.yml
@@ -96,17 +95,17 @@ export DERMNET_TEST_ROOT=/your/dermnet/test/root
 python scripts/validate_release.py --image-root "$DERMNET_TEST_ROOT"
 ```
 
-## DermEval
+## 🧪 DermEval
 
 DermEval is the reference-free evaluator described in the paper. Its release is intentionally left as a placeholder in this repository while the DermBench text benchmark is prepared.
 
-## License
+## 📄 License
 
 The DermBench text release and repository code are distributed under the Creative Commons Attribution-NonCommercial 4.0 International license. Commercial use requires separate permission.
 
-This license does not cover DermNet images. See `DATA_NOTICE.md` for DermNet image links and usage notes.
+This license does not cover DermNet images. See `docs/data_notice.md` for DermNet image links and usage notes.
 
-## Citation
+## 📚 Citation
 
 ```bibtex
 @article{shen2025towards,

@@ -21,7 +21,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Score DermBench candidate narratives with DeepSeek-R1.")
     parser.add_argument("--manifest", default="data/manifest/dermbench_test.jsonl")
     parser.add_argument("--candidates", required=True, help="JSONL with id and candidate_text fields.")
-    parser.add_argument("--prompt", default="prompts/dermbench_judge.txt")
+    parser.add_argument("--prompt", default="dermbench/prompts/dermbench_judge.txt")
     parser.add_argument("--output", default="outputs/dermbench_scores.jsonl")
     parser.add_argument("--model", default=os.getenv("DEEPSEEK_MODEL", "deepseek-reasoner"))
     parser.add_argument("--base-url", default=os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com"))
