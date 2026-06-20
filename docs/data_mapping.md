@@ -2,10 +2,10 @@
 
 DermBench is distributed here as a text-only release.
 
-The source text directory used to build this release was:
+The source text tree used to build this release was:
 
 ```text
-DermCoT/Dermnet2/step4_txt/test
+Dermnet2/step4_txt/test
 ```
 
 Each CoT text is aligned to a DermNet test image by path. The manifest field `dermnet_image_path` is the relative path under a local DermNet test image root, while `cot` is the relative path to the released CoT text in this repository.
@@ -29,4 +29,3 @@ The local source contained 4002 paired test identifiers. The released manifest c
 
 - `Acne and Rosacea Photos/Forest-2.jpg`: non-dermatology landscape image.
 - `Atopic Dermatitis Photos/11IMG001.jpg`: missing disease label in the source label text.
-

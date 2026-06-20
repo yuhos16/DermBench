@@ -1,8 +1,8 @@
 {
   "generated_on": "2026-06-20",
-  "local_source_image_root": "Derm_image/test",
-  "local_source_cot_root": "Dermnet2/step4_txt/test",
-  "local_source_label_root": "Dermnet2/name_txt/test",
+  "source_image_root": "Derm_image/test",
+  "source_cot_root": "Dermnet2/step4_txt/test",
+  "source_label_root": "Dermnet2/name_txt/test",
   "source_total_image_identifiers": 4002,
   "published_total_cot_files": 4000,
   "published_categories": 23,

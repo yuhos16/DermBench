@@ -15,7 +15,7 @@ This repository contains the DermBench text release and minimal runnable evaluat
 - `configs/models.json`: metric order, reported benchmark models, and judge-model defaults.
 - `dermeval/`: placeholder for the DermEval component.
 
-The CoT files were prepared from the local source directory `DermCoT/Dermnet2/step4_txt/test`. Candidate model outputs, result files, old API scripts, API keys, and proxy endpoints are intentionally excluded.
+The CoT files were prepared from the source text tree `Dermnet2/step4_txt/test`. Candidate model outputs, result files, old API scripts, API keys, and proxy endpoints are intentionally excluded.
 
 ## Data Mapping
 
@@ -92,7 +92,8 @@ python scripts/validate_release.py --check-sha
 Validate mapping against a local DermNet test image root:
 
 ```bash
-python scripts/validate_release.py --image-root /path/to/DermNet/test
+export DERMNET_TEST_ROOT=/your/dermnet/test/root
+python scripts/validate_release.py --image-root "$DERMNET_TEST_ROOT"
 ```
 
 ## Minimal Evaluation Example
@@ -102,7 +103,7 @@ Generate candidate narratives with the standard OpenAI API:
 ```bash
 export OPENAI_API_KEY=...
 python scripts/generate_candidates_openai.py \
-  --image-root /path/to/DermNet/test \
+  --image-root "$DERMNET_TEST_ROOT" \
   --model gpt-4o-mini \
   --limit 10 \
   --output outputs/gpt4o_mini_candidates.jsonl
@@ -139,4 +140,3 @@ DermEval is the reference-free evaluator described in the paper. Its release is 
   year={2025}
 }
 ```
-
