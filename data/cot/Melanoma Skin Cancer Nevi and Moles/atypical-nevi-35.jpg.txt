@@ -1,0 +1,20 @@
+<think> First, I observe the key features described in the image. The primary concern is a large, irregularly shaped, dark brown pigmented lesion located superior to the nipple-areola complex. It has variegated coloring, meaning it shows multiple shades of brown, which is not uniform. The surface is somewhat textured, suggesting possible elevation or roughness. This combination of irregularity, color variation, and texture raises concerns about potential atypia, as these are classic warning signs for abnormal skin growths. </think>
+
+<think> Next, I consider the surrounding structures. The nipple itself appears normal—everted, reddish-pink, and textured, which is consistent with healthy anatomy. The areola and periareolar skin show multiple small, skin-colored to brownish raised bumps or nodules. These are likely benign, such as sebaceous hyperplasia or Montgomery tubercles (normal glands around the nipple), given their appearance and common occurrence in this area. They don't appear to be part of the main issue. </think>
+
+<think> Now, I evaluate the pigmented lesion using the ABCDE criteria for skin lesions: 
+- **Asymmetry**: The irregular shape suggests asymmetry. 
+- **Border irregularity**: While not explicitly described, the irregular shape implies borders may not be smooth. 
+- **Color variation**: Variegated coloring is a red flag. 
+- **Diameter**: Described as large, which often means >6mm, another concerning feature. 
+- **Evolution**: No history of change is provided, but the features suggest this could be a new or changing lesion. </think>
+
+<think> Differential diagnosis: 
+- **Atypical nevus (dysplastic nevus)**: This fits well—irregular shape, variegated color, large size, and textured surface are hallmarks. Atypical nevi are benign but can mimic melanoma and indicate increased skin cancer risk. 
+- **Melanoma**: Must be ruled out due to the irregularity, color variation, and size. Melanoma is a serious concern, but without features like ulceration or rapid growth, it's less likely here. 
+- **Seborrheic keratosis**: Often has a waxy, stuck-on look with uniform color, which doesn't match the variegation here. 
+- **Other possibilities**: Pigmented basal cell carcinoma (rare in this location) or a benign compound nevus, but the irregularity and color changes make atypical nevus more probable. </think>
+
+<think> Given that the lesion is isolated and the surrounding skin shows benign changes, the most likely diagnosis is an atypical nevus. However, this is based solely on visual description; a dermatologist would recommend a biopsy for confirmation to exclude melanoma. </think>
+
+Based on the description, the main issue with your skin appears to be an **atypical nevus** (also known as a dysplastic nevus). This is a type of mole that has irregular features and may look concerning, but it is not cancerous. It should be evaluated by a dermatologist for possible monitoring or removal to rule out any risk of skin cancer. The raised bumps around your nipple are likely normal Montgomery glands and not a cause for alarm.

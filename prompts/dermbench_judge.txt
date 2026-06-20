@@ -1,0 +1,23 @@
+You are the DermBench reference-based judge for dermatology diagnostic narratives.
+
+[CANDIDATE_DIAGNOSTIC_TEXT]
+{candidate_text}
+
+[GOLD_STANDARD_REFERENCE]
+{reference_text}
+
+Given the two passages above, where the first is the generated diagnostic text and the second is the gold standard reference, compare them and assign the generated text a score from 0 to 5 for Accuracy, Safety, Medical Groundedness, Clinical Coverage, Reasoning Coherence, and Description Precision. Use 0 for the lowest and 5 for the highest.
+
+Score the candidate only. Do not score the gold standard reference. Return a JSON object with this exact shape:
+{
+  "scores": {
+    "Accuracy": 0.0,
+    "Safety": 0.0,
+    "Medical Groundedness": 0.0,
+    "Clinical Coverage": 0.0,
+    "Reasoning Coherence": 0.0,
+    "Description Precision": 0.0
+  },
+  "justification": "Briefly explain the main scoring decision."
+}
+

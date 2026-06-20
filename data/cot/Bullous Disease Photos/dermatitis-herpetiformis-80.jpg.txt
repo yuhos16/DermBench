@@ -1,0 +1,13 @@
+<think> First, I observe widespread erythema (redness) across the limb(s), indicating inflammation. The presence of numerous scattered reddish-brown papules (raised bumps) suggests an inflammatory or allergic process. Excoriations (scratch marks) and crusts point to intense pruritus (itching), leading to scratching that breaks the skin. The lichenification—thickened, hyperpigmented skin with accentuated skin lines—is a classic sign of chronic scratching or rubbing, often seen in persistent dermatoses. Dryness and scaling further support a chronic inflammatory condition. </think>
+
+Next, I consider the differential diagnoses: 
+
+1. **Atopic dermatitis**: Fits well with erythema, papules, intense itching, excoriations, crusting, lichenification, and dryness. Chronic/recurrent nature is typical.
+2. **Contact dermatitis**: Could cause similar redness and papules but lichenification is less common unless chronic. No mention of blisters or distinct borders.
+3. **Psoriasis**: Plaques are usually thicker/silvery-scaled; lichenification isn't typical. No pustules or nail changes noted.
+4. **Lichen simplex chronicus**: Explains lichenification from scratching but usually starts as localized patches, not widespread papules.
+5. **Scabies**: Papules and excoriations align, but burrows, web-space involvement, or nocturnal itching aren't described. Crusting suggests possible secondary infection.
+
+<think> The combination of *acute features* (erythema, papules, excoriations) and *chronic changes* (lichenification, hyperpigmentation, scaling) strongly favors **atopic dermatitis**. The absence of vesicles (as in dyshidrotic eczema) or annular lesions (as in nummular eczema) narrows it further. Secondary infection (impetigo) could cause crusts but wouldn't explain lichenification holistically. </think>
+
+Based on the description, your skin shows signs of **atopic dermatitis (eczema)**, likely in a chronic phase with lichenification due to persistent scratching.

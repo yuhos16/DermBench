@@ -1,0 +1,16 @@
+<think> First, I observe the location: bilateral axillary regions (armpits), extending to the adjacent chest wall and inner upper arms. This is a classic intertriginous distribution, where skin folds experience friction, moisture, and warmth. Conditions affecting these areas often include inflammatory dermatoses, infections, or genetic disorders favoring flexural sites. </think> 
+
+Next, I note the primary lesions: multiple **well-demarcated erythematous patches and plaques**. The well-defined borders suggest an epidermal process rather than a dermal or reactive one. The presence of **yellowish-brown crusting** indicates serous exudate or dried plasma, often seen when vesicles or bullae rupture. The description of **scaling** (especially on the right) and an **irregular surface** supports chronicity and possible epidermal disruption. The **linear/crescentic pattern conforming to skin folds** is a highly characteristic feature, often seen in disorders with fragile skin or recurrent blistering in friction-prone areas. 
+
+<think> I consider key differential diagnoses:   
+1. **Intertrigo/Candidiasis**: Common in folds, but candidiasis typically shows satellite pustules/erosions and less well-demarcated plaques. Crusting isn't typical.   
+2. **Inverse Psoriasis**: Can affect axillae but usually presents with sharply demarcated, shiny, salmon-pink plaques and minimal crusting; scaling is finer.   
+3. **Contact Dermatitis**: Often asymmetric, with more acute inflammation (vesicles, oozing) rather than chronic plaques.   
+4. **Pemphigus Vulgaris**: Blistering disorder, but lesions are flaccid bullae/erosions, rarely restricted to folds, and crusting is hemorrhagic.   
+5. **Darier’s Disease**: Shows hyperkeratotic papules in seborrheic areas, but flexural involvement may resemble "dirty" plaques. Crusting is common, but linear patterns are less specific. </think> 
+
+The combination of **chronic, symmetric, flexural plaques with crusting and a linear/crescentic pattern** strongly points toward **Hailey-Hailey disease (benign familial chronic pemphigus)**. This genetic disorder causes fragile skin due to defective epidermal adhesion, leading to recurrent blisters/erosions in friction zones. Crusting and scaling arise from repeated healing and breakdown. The linear erosions along folds are a hallmark sign. No systemic symptoms or mucosal involvement are mentioned, ruling out pemphigus vulgaris. 
+
+<think> Thus, the features align best with Hailey-Hailey disease. </think> 
+
+Based on the description, your skin condition appears consistent with **benign familial chronic pemphigus (Hailey-Hailey disease)**, a genetic disorder causing recurrent blisters and erosions in skin folds like the armpits. It often shows crusted plaques with a characteristic linear pattern. I recommend consulting a dermatologist for confirmation, possibly via biopsy, and management strategies to reduce flares.

@@ -1,0 +1,13 @@
+To analyze this case, I will follow a structured reasoning approach, starting from a broad disease category and narrowing it down to a specific diagnosis based on the provided image description.
+
+<think> First, I observe the patient is an infant, which is a key demographic consideration. This age group is particularly relevant as certain skin lesions are more prevalent in infants compared to older children or adults. Given the solitary nature of the lesion and its characteristics, I can categorize this case under benign tumors, specifically vascular tumors, which are common in this demographic. </think>
+
+Next, I will focus on the specific characteristics of the lesion described. The lesion is solitary, raised, well-defined, and round, measuring 1-2 cm in diameter. Its deep red to purplish-red color suggests a vascular origin, which is a critical clue in narrowing down the differential diagnoses.
+
+<think> The "berry-like" appearance with a lobulated/bumpy surface texture is highly characteristic of a proliferative vascular tumor. This morphology is distinct and points towards a specific type of vascular lesion. The absence of scaling, crusting, or inflammation further supports the idea that this is not an inflammatory condition like eczema or psoriasis, nor an infectious process. </think>
+
+Considering the rapid onset of the lesion, as indicated by parental concern, I can infer that this is likely a benign tumor that typically exhibits such growth patterns. The classic morphology aligns with a benign vascular tumor rather than a malformation, such as a port-wine stain, which would typically present differently in terms of color and texture.
+
+<think> Common mimics like pyogenic granuloma are typically smaller, more friable, and lack the classic berry texture described here. Given the age, location on the forehead, color, texture, and solitary nature of the lesion, I can confidently conclude that the most probable diagnosis is infantile hemangioma. </think>
+
+In summary, based on the analysis of the lesion's characteristics and the demographic context, this appears to be a **hemangioma of infancy**, commonly referred to as a "strawberry hemangioma." It is a benign vascular tumor that is prevalent in infants, typically exhibiting rapid growth followed by gradual involution over time.

@@ -1,0 +1,25 @@
+<think> First, I observe the location: posterior scalp and upper neck (nuchal area), which is a hair-bearing region. The description highlights **large, confluent, raised, hyperpigmented masses** with a **markedly convoluted (cerebriform) surface** featuring deep furrows and ridges. This cerebriform texture is highly distinctive and narrows the differential significantly. The presence of **erosion/ulceration** suggests secondary inflammation or breakdown, possibly due to friction or infection. Additionally, **smaller peripheral papules/nodules** and **coarse dark hairs** at the lesion edges are noted. </think>
+
+At a high level, the case likely falls into the category of **neoplastic or congenital lesions**. The characteristics described suggest a benign process rather than an infectious or inflammatory condition, primarily due to the chronic nature of the lesions and their specific morphology.
+
+<think> I consider common scalp lesions:  
+- **Keloids/hypertrophic scars**: Typically arise after trauma, are firm/smooth, and lack cerebriform architecture or peripheral papules.  
+- **Melanoma**: Can be irregular/pigmented but rarely exhibits a diffuse cerebriform pattern. Ulceration is a red flag, but the overall morphology doesn't align.  
+- **Neurofibroma (plexiform type)**: Can be hyperpigmented and "bag-like," but cerebriform texture is atypical; it’s usually softer and more diffuse.  
+- **Cutaneous metastasis**: May ulcerate but lacks the organized furrows/ridges. </think>
+
+Upon narrowing down the differential diagnosis, the cerebriform texture significantly points away from keloids and melanoma, as these conditions do not typically present with such a distinctive surface morphology. Neurofibromas, while they can be hyperpigmented, do not usually exhibit the same convoluted surface. Cutaneous metastasis is also less likely given the specific features described.
+
+<think> The **cerebriform morphology is pathognomonic for nevus sebaceus**, a congenital hamartoma. Key features match:  
+1. Scalp/face predilection.  
+2. Cerebriform surface evolving at puberty.  
+3. Hyperpigmentation and hyperkeratosis.  
+4. Erosion (common due to irritation).  
+5. Peripheral papules (may represent secondary benign tumors like syringocystadenoma papilliferum).  
+6. Coarse hairs at margins (lesions often lack central hair). </think>
+
+The distinctive cerebriform surface, along with the location on the scalp and the presence of peripheral papules, strongly supports the diagnosis of nevus sebaceus. The erosion noted is consistent with irritation, which is common in these lesions, especially in areas subject to friction.
+
+<think> Plexiform neurofibroma was a contender but is less likely due to the precise cerebriform description. No history of NF1 or trauma further supports nevus sebaceus. </think>
+
+In conclusion, based on the clinical features described, this appears to be **nevus sebaceus (of Jadassohn)**, a benign congenital hamartoma commonly presenting on the scalp with characteristic cerebriform architecture. The erosion and peripheral papules are consistent with common complications associated with this condition. I recommend evaluation by a dermatologist for confirmation and monitoring due to a small risk of secondary neoplasms.

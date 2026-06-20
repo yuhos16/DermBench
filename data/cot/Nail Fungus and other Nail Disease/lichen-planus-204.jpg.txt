@@ -1,0 +1,16 @@
+<think> First, I observe the key features described: a localized, roughly rectangular, reddish-pink patch with well-defined but slightly irregular borders. The affected area is mildly elevated or thickened compared to surrounding skin, and fine lines are visible on its surface. The presence of small dark dots on unaffected skin (likely hair follicles or melanocytic nevi) seems unrelated to the primary lesion.  </think>
+
+<think> Considering the morphology:  
+- **Shape and borders**: The rectangular shape with defined but irregular edges suggests possible Koebnerization (linear arrangement due to trauma) or an inflammatory process with geometric patterning.  
+- **Color and elevation**: The reddish-pink hue indicates inflammation, while mild thickening suggests epidermal or dermal changes (e.g., hyperkeratosis or lichenification).  
+- **Surface pattern**: Fine lines on the surface are highly characteristic of **Wickham striae**, a pathognomonic feature of lichenoid reactions.  </think>
+
+<think> Differential diagnosis:  
+- **Psoriasis**: Typically shows silvery scales, not fine lines; borders are sharper; less likely without scaling description.  
+- **Eczema**: Often has ill-defined borders, vesiculation, or crusting; no Wickham striae.  
+- **Fungal infection (tinea)**: Usually annular with central clearing; scaling is common; not rectangular.  
+- **Lichen simplex chronicus**: Shows marked lichenification but lacks Wickham striae or geometric shapes.  </think>
+
+<think> The combination of geometric shape, violaceous hue (reddish-pink), Wickham striae (implied by "fine lines"), and elevation strongly points to a **lichenoid disorder**. Given the classic features, lichen planus is the most probable diagnosis.  </think>
+
+Based on the description, your skin shows signs of **lichen planus**. This is an inflammatory condition characterized by flat-topped, violaceous papules or plaques with fine whitish lines (Wickham striae) on the surface. The rectangular shape may indicate a Koebner phenomenon, where lesions form along sites of minor skin injury. I recommend consulting a dermatologist for confirmation and management, as treatments like topical corticosteroids are often needed.

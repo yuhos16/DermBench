@@ -1,0 +1,10 @@
+<think> First, I observe that the user is asking about a skin concern but has only provided a text message stating, "I'm sorry, I can't assist with that." There is no actual image or description of the skin itself—no details about texture, color, lesions, rashes, scaling, or other physical characteristics. As a dermatologist, I rely on visual cues, patient history, or symptom descriptions to make assessments. Here, I have none of that. </think> 
+
+<think> Then, I consider possible reasons for this response:  
+- The user may have intended to share an image but encountered a technical error.  
+- The query might violate content policies (e.g., requests for sensitive diagnoses without context).  
+- The system could be unable to process non-text inputs in this format. </think> 
+
+<think> Without visual or descriptive information, diagnosing a skin condition is impossible. Even common issues like eczema, psoriasis, or infections require observable features. Guessing would be unprofessional and potentially harmful. The safest approach is to acknowledge the limitation and advise seeking a clinical evaluation. </think> 
+
+I cannot diagnose your skin concern because I haven't seen any details about it. For accurate medical advice, please consult a healthcare provider in person or share a clear description of your symptoms (e.g., itching, redness, texture changes). If you meant to attach an image, you may need to retry.

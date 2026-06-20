@@ -1,0 +1,19 @@
+<think> First, I observe the key features from the description:   - **Location**: Joint area of a limb (flexural site).   - **Primary lesions**: Discrete, raised papules/nodules with reddish-brown coloration.   - **Secondary changes**: Excoriation (scratch marks) and crusting on some lesions, indicating pruritus (itching).   - **Surrounding skin**: Flatter discoloration (suggesting post-inflammatory hyperpigmentation) and otherwise normal texture. </think> 
+
+Next, I consider common dermatological conditions matching this pattern:  
+- **Prurigo nodularis**: Fits well—chronic, intensely itchy nodules often on limbs, excoriated, with hyperpigmentation.  
+- **Atopic eczema**: Can present with papules, excoriation, and lichenification in flexural areas, but lesions are often more confluent.  
+- **Insect bites**: May cause clustered papules with excoriation, but typically acute and resolve faster.  
+- **Psoriasis**: Plaques are common, but small papules can occur; excoriation is less typical.  
+- **Contact dermatitis**: Usually diffuse redness/vesicles; discrete papules are atypical.  
+
+<think> The combination of **persistent raised lesions + excoriation + post-inflammatory changes** strongly points to a chronic, pruritic condition. Prurigo nodularis aligns best: it causes discrete, hyperkeratotic nodules triggered by repetitive scratching, often in accessible areas like joints, with residual pigmentation. The absence of scale, vesicles, or pustules rules out many infectious/inflammatory mimics. </think> 
+
+Finally, I weigh the evidence:  
+- Intense pruritus (evidenced by excoriation) is central.  
+- Chronicity is implied by post-inflammatory changes.  
+- Morphology (discrete nodules/papules) isn't typical of acute reactions.  
+
+<think> Thus, **prurigo nodularis** is the most likely diagnosis. </think> 
+
+Based on the description, your skin shows signs of **prurigo nodularis**—a chronic condition causing intensely itchy, raised nodules due to repeated scratching or rubbing. The excoriation and crusting indicate active itching, while the surrounding discoloration suggests healing from previous inflammation. I recommend consulting a dermatologist for confirmation and management, as treatments like topical steroids or anti-itch therapies can help break the itch-scratch cycle.

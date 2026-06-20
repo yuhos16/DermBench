@@ -1,0 +1,12 @@
+<think> First, I observe the key features described:   - **Location:** Bilateral lower limbs (thighs to calves), widespread distribution.   - **Morphology:** Discrete reddish-pink lesions, mostly macular or slightly raised (papular), polygonal/irregular shapes.   - **Pattern:** Scattered and discrete lesions without mention of scaling, vesicles, erosion, or central umbilication. </think> 
+
+Next, I consider common dermatological conditions fitting this presentation:   
+1. **Viral exanthems** (e.g., Gianotti-Crosti syndrome, hand-foot-mouth): Often symmetric, papular/macular, but typically affect children and include trunk/arms. Polygonal shape is atypical.   
+2. **Lichen planus:** Classic violaceous polygonal papules, often with Wickham striae; favors wrists/ankles but can extend to legs. Reddish-pink color is less typical (usually purple).   
+3. **Drug eruption:** Symmetric maculopapular exanthems are common, but usually truncal with limb involvement; polygonal shape is unusual.   
+4. **Guttate psoriasis:** Small papules/plaques, but typically scaly and salmon-pink, favoring trunk/proximal limbs.   
+5. **Insect bites:** Can be scattered papules, but often clustered/irregularly grouped and itchy; polygonal shape is rare.   
+
+<think> The **polygonal/irregular shape** is a critical clue. This morphology strongly suggests **lichen planus**, which classically presents with flat-topped, polygonal papules. While typically violaceous, early lesions can appear reddish-pink. The bilateral symmetry and leg distribution (though often starting at ankles) align with lichen planus variants. Viral exanthems lack consistent polygonal shapes, and other conditions don’t prioritize this morphology. </think> 
+
+Final deduction: The polygonal papules, distribution, and color point most convincingly to **lichen planus**. I recommend consulting a dermatologist for confirmation, possibly with a biopsy, as treatment may involve topical steroids or antihistamines for itching.

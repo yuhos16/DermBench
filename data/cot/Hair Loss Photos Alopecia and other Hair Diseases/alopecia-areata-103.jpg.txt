@@ -1,0 +1,14 @@
+<think> First, I observe the key features: there are one or more well-demarcated patches of complete hair loss on the scalp, specifically the crown/parietal region. The affected skin appears smooth, pale (normal color), and shows no signs of inflammation, scaling, scarring, or broken hairs. Hair follicles aren't visible, suggesting an absence of hair shafts rather than destruction of follicles. The surrounding hair is healthy, with no diffuse thinning. </think> 
+
+<think> Next, I consider the general disease category this case may belong to. The absence of inflammation and the well-defined nature of the hair loss suggest that this is likely a non-scarring alopecia. This leads me to think about conditions that cause patchy hair loss without accompanying skin changes. </think> 
+
+<think> I then progressively narrow down to potential specific diseases. Common causes of patchy non-scarring alopecia include: 
+- **Alopecia areata**, which typically presents as sudden, round or oval, smooth bald patches without inflammation or scaling. The preservation of follicle openings (though not visible here) and normal skin color align with this diagnosis.
+- **Tinea capitis** (fungal infection) usually shows scaling, broken hairs, or inflammation, which are absent in this case.
+- **Trichotillomania** (hair-pulling disorder) often results in irregular patches with broken hairs and follicular damage, which are not described in the image.
+- **Androgenetic alopecia** causes diffuse thinning rather than discrete patches, which does not fit this presentation.
+- **Scarring alopecias** (e.g., lichen planopilaris) typically display visible scarring, erythema, or follicular loss, which are also absent here. </think> 
+
+<think> The lack of redness, scaling, or pain further rules out inflammatory or infectious causes. The smooth, "clean" appearance with sharp borders strongly points to an autoimmune process targeting hair follicles. Given the acute, asymptomatic, well-defined hair loss in characteristic locations, alopecia areata fits best. </think> 
+
+Based on the above analysis, this appears to be **alopecia areata**, an autoimmune condition causing sudden, patchy hair loss without skin changes. I recommend seeing a dermatologist for confirmation (possibly with a dermatoscope to check for "exclamation mark hairs") and discussion of treatment options.

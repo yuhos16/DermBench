@@ -1,0 +1,16 @@
+<think> First, I observe the key features: widespread erythematous patches that are irregularly shaped, slightly raised/swollen, and arranged in a geographic/mottled pattern with intervening normal skin. This suggests transient lesions that migrate or change shape. The presence of crusting and scratching on the upper arm indicates significant pruritus (itching), a hallmark symptom. The lesions aren't described as scaly, vesicular, or pustular, which rules out conditions like psoriasis, eczema (which typically has scaling), or infections. </think> 
+
+Next, I consider the morphology: the slightly raised, swollen appearance of red patches aligns with wheals – superficial swellings of the skin. The geographic pattern with central clearing and fleeting nature is classic for urticaria (hives). The crusting on the arm is likely due to excoriation from scratching, secondary to intense itching. 
+
+<think> I then evaluate differentials:  
+- **Eczema**: Usually presents with dryness, scaling, and lichenification; not typically migratory.  
+- **Psoriasis**: Features well-demarcated plaques with thick scale; lesions are persistent, not transient.  
+- **Viral exanthem**: Often accompanied by systemic symptoms; lesions don’t show this geographic variability.  
+- **Cutaneous mastocytosis**: Has fixed brownish lesions (not erythematous/swollen) and Darier’s sign.  
+- **Angioedema**: Involves deeper swelling, often asymmetric, affecting lips/eyes; not described here. </think> 
+
+The absence of scales, blisters, or systemic symptoms, combined with the transient, pruritic, raised erythematous patches in a geographic pattern, strongly points to **urticaria**. The crusting is a secondary feature from scratching. 
+
+<think> Based on the description, this appears to be **urticaria (hives)**. The red, raised, migratory patches with intense itching are characteristic, and the crusting likely results from scratching due to discomfort. I recommend consulting a dermatologist to identify potential triggers (allergies, stress, medications) and discuss management options like antihistamines. </think> 
+
+In conclusion, the clinical features described align well with urticaria, characterized by transient wheals, significant pruritus, and the absence of other common dermatological features that would suggest alternative diagnoses.

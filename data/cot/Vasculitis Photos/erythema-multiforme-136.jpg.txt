@@ -1,0 +1,22 @@
+<think> First, I observe the distribution: bilateral lower extremities, specifically anterior shins and peri-knees. Symmetry is a key feature, often seen in systemic or reactive conditions rather than localized infections. The lesions are described as erythematous papules and nodules – indicating inflammatory, raised lesions. The presence of crusting/excoriation strongly suggests pruritus (itching), making conditions causing significant itch more likely.  </think>
+
+Next, I consider morphology: scattered, discrete, well-demarcated lesions of varying size. This rules out confluent rashes like cellulitis or diffuse eczema. Crusting implies possible rupture, excoriation, or drying, often seen in pruritic conditions or vasculitic processes. The absence of mention of vesicles, pustules, or scale narrows possibilities. 
+
+<think> Location is critical: shins are classic sites for conditions like erythema nodosum (EN), but EN presents with deep, tender nodules, often without significant crusting/excoriation. The involvement of knees and bilateral pattern also fits reactive erythemas or vasculitis. </think>
+
+Key differentials based on this: 
+1. **Erythema Nodosum (EN)**: Tender nodules on shins, but typically *not* crusted/excoriated and often associated with systemic symptoms. Pruritus is minimal. 
+2. **Insect Bite Hypersensitivity**: Can cause pruritic papules/nodules, but usually asymmetric and clustered. Crusting/excoriation common. 
+3. **Cutaneous Small Vessel Vasculitis (CSVV)**: Presents with palpable purpura, papules, nodules. Crusting occurs if lesions ulcerate. Favors lower legs. 
+4. **Papular Urticaria**: Pruritic papules/nodules, often excoriated, but usually asymmetric. 
+5. **Erythema Multiforme (EM)**: Can present with acral (distal extremities) targetoid papules/plaques. Lesions may crust or erode, especially if traumatized. Pruritus/burning can occur. Knees are a common site. 
+
+<think> Crucially, EM often shows: 
+- Symmetric acral distribution (legs/hands/feet). 
+- Polymorphous lesions: papules, nodules, target-like lesions. 
+- Potential for crusting/erosion in more severe lesions (EM major). 
+- Possible association with triggers (infections like HSV, medications). </think>
+
+The bilateral symmetry, acral location (shins/knees), pruritus (evidenced by excoriation), and crusted papules/nodules align strongly with **erythema multiforme**. While vasculitis or insect bites are possible, the symmetric pattern and lack of reported purpura (though not explicitly ruled out) make EM the best fit. 
+
+<think> Based on the description, this appears consistent with **erythema multiforme**. It's an immune-mediated reaction often triggered by infections (like herpes simplex) or medications, causing characteristic target-like lesions that can become crusted due to irritation or scratching. I recommend seeing a dermatologist for confirmation, as a biopsy may be needed to rule out vasculitis or other conditions. Avoid scratching to prevent infection, and track potential triggers. </think>

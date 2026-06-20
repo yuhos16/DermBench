@@ -1,0 +1,22 @@
+<think> First, I observe the location: lesions are clustered lateral to the left nostril, extending to the upper cheek and nasolabial fold. This is a common site for benign facial growths. </think> 
+
+<think> Next, I analyze the morphology: 
+- **"Small, discrete, firm, pearly white to yellowish-white papules"**: This color and texture are highly characteristic of keratin-filled cysts. Pearly/white suggests surface keratin, and firmness indicates a contained structure. 
+- **"Domed or slightly flattened"**: Consistent with superficial cystic lesions under tension. 
+- **"Few millimeters in size"**: Typical for small benign lesions like milia or small epidermal cysts. 
+- **"Clustered"**: Milia often appear in groups, especially in facial regions. </think> 
+
+<think> I then consider the absence of key features: 
+- **No inflammation, redness, or scaling**: Rules out inflammatory conditions (e.g., acne, rosacea, eczema) or infections (e.g., herpes, impetigo). 
+- **Visible pores in surrounding skin**: Suggests normal skin texture without associated comedones (unlike acne). </think> 
+
+<think> Differential diagnosis: 
+1. **Milia**: Primary consideration—superficial keratin cysts appearing as firm, white-yellow papules. Common on face, especially perinasal/cheek areas. Asymptomatic and clustered. 
+2. **Closed comedones (whiteheads)**: Less likely—these are softer, often associated with acne, and may show inflammation. 
+3. **Sebaceous hyperplasia**: Unlikely—typically presents as softer, yellowish papules with central umbilication. 
+4. **Xanthelasma**: Excluded—usually on eyelids, not nasolabial fold, and more yellowish. 
+5. **Syringomas**: Possible but less fitting—typically smaller, skin-colored, and favor eyelids. </think> 
+
+<think> Conclusion: The combination of **firm, pearly white papules without inflammation**, clustered in a facial distribution, strongly points to **milia**. These are keratin-filled cysts arising from trapped keratin beneath the epidermis. </think> 
+
+Based on the description, you likely have **milia**. These are harmless, small cysts filled with keratin that commonly appear around the nose and cheeks. They don’t require treatment but can be professionally extracted if bothersome.

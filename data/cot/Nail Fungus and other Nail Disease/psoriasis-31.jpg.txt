@@ -1,0 +1,14 @@
+<think> First, I observe the prominent yellow-white discoloration and thickening of the nail plate. This suggests abnormal keratin production or accumulation. The rough, crumbly texture indicates structural damage to the nail matrix or bed. </think> 
+
+Next, I note the specific features: subungual hyperkeratosis (excess skin cell buildup under the nail) and onycholysis (separation from the nail bed). These are common in inflammatory nail disorders rather than purely infectious ones. The loss of translucency further supports chronic inflammation affecting the nail unit. 
+
+<think> Considering the periungual skin: dryness, scaling, and involvement of the proximal/lateral folds suggest an inflammatory skin process extending beyond the nail itself. Fungal infections typically don't cause such periungual changes, while conditions like eczema or psoriasis often do. </think> 
+
+In terms of differential diagnosis, I consider several possibilities: 
+- **Onychomycosis** (fungal infection) could explain discoloration and thickening but rarely causes significant periungual scaling or hyperkeratosis. 
+- **Lichen planus** may cause nail dystrophy but usually features more severe longitudinal ridging. 
+- **Psoriasis** classically presents with this combination: oil-drop discoloration, crumbling, onycholysis, subungual debris, *and* associated periungual scaling/skin changes. 
+
+<think> The absence of green discoloration (pseudomonas) or focal dark streaks (melanoma) rules out other possibilities. The multi-feature presentation—especially periungual inflammation—strongly points toward psoriasis as the unifying diagnosis. </think> 
+
+Based on this analysis, the issue appears to be **psoriasis affecting the nail unit (psoriatic nail dystrophy)**. This condition often accompanies skin psoriasis and requires targeted anti-inflammatory treatment.

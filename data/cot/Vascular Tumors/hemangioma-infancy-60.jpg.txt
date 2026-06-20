@@ -1,0 +1,14 @@
+<think> First, I observe the key features described: 1. **Patient age:** The lesion is on a child, narrowing the differential to pediatric skin conditions. 2. **Appearance:** The lesion is *raised*, *reddish-purple*, with an *irregular/starlike outline* and a *textured/lobulated surface*. 3. **Location:** Upper back near the shoulder blade, a common site for vascular lesions. 4. **Additional clues:** A smaller satellite lesion is present, and surrounding skin is normal. </think>
+
+Next, I consider common pediatric lesions: 
+
+- **Hemangiomas of infancy** fit well: They typically appear in early childhood, are raised, reddish-purple ("strawberry" appearance), often lobulated, and may have satellite lesions. They commonly occur on the trunk/head/neck. 
+- **Port-wine stains** (capillary malformations) are usually flat and uniform, not raised or lobulated. 
+- **Pyogenic granulomas** are bright red, friable, and bleed easily – not described here. 
+- **Dermatofibromas or keloids** are firmer, often brownish, and rare in young children. 
+
+<think> The *rapid growth phase* of hemangiomas (typically peaking around 3–6 months) aligns with the raised, lobulated texture. The color (reddish-purple) suggests vascularity, and the satellite lesion is a known feature. No ulceration, pain, or systemic symptoms are mentioned, supporting a benign diagnosis. </think>
+
+Alternative possibilities (e.g., early Kaposiform hemangioendothelioma) are less likely without bruising or coagulopathy. The classic presentation strongly points to hemangioma. 
+
+<think> This appears to be a **hemangioma of infancy**, a common, benign vascular tumor. It should be evaluated by a pediatric dermatologist to confirm and discuss monitoring/treatment options if needed. </think>

@@ -1,0 +1,15 @@
+<think> First, I observe a large, dark brown to black lesion on a child's upper arm near the elbow. The color is deeply pigmented, which suggests melanocytic involvement. The irregular, rounded shape and elevated, textured surface with a rugose or verrucous appearance are notable. This texture often indicates hyperkeratosis or epidermal changes over time. The borders are distinct but irregular, which is a common feature in congenital lesions rather than sharply defined acquired ones. </think> 
+
+Next, I consider the location (outer arm) and the patient's age (child). Pediatric skin lesions with these characteristics narrow the differential. The large size is particularly significant—lesions >20mm in children are often congenital. The verrucous surface suggests long-standing evolution, as congenital nevi frequently thicken or become verrucous with growth. 
+
+<think> I weigh other possibilities:  
+- **Melanoma**: Rare in children; lacks rapid change or ulceration described here.  
+- **Seborrheic keratosis**: Uncommon in kids; typically lighter, "stuck-on" appearance.  
+- **Epidermal nevus**: Often linear or Blaschkoid, not typically this dark.  
+- **Acquired nevus**: Usually smaller, symmetrical, and uniform in childhood. </think> 
+
+The deep pigmentation, irregular borders, size, and verrucous texture in a pediatric patient strongly point to a congenital melanocytic nevus. These lesions are present at birth or appear in infancy, growing proportionally with the child. 
+
+<think> Based on the description, this appears to be a **congenital melanocytic nevus**. It's important to have a dermatologist evaluate it in person for confirmation and to discuss monitoring, as very large congenital nevi may carry future risks. </think> 
+
+In conclusion, the combination of features—deep pigmentation, irregular borders, large size, and a verrucous surface—aligns well with the characteristics of a congenital melanocytic nevus. Given the patient's age and the lesion's morphology, this diagnosis is both logical and supported by the clinical reasoning process.

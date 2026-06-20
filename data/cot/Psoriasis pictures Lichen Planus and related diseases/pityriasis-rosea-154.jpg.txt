@@ -1,0 +1,13 @@
+<think> First, I observe the key features described: widespread redness affecting the entire back, with numerous small, raised reddish lesions. The lesions are characterized as papules and possibly pustules, indicating inflammation or infection. The presence of scratching marks suggests significant itching (pruritus), and the slightly uneven skin surface hints at texture changes. </think> 
+
+Next, I consider common dermatological conditions that match this presentation: 
+
+- **Folliculitis**: Often presents as pustules or papules centered on hair follicles, which aligns with the "raised reddish lesions" and pustule description. Widespread involvement is possible, especially in bacterial or fungal folliculitis. 
+- **Acne vulgaris**: Can cause papules/pustules on the back, but typically includes comedones (blackheads/whiteheads), which aren't mentioned here. The uniform redness is also less characteristic. 
+- **Pityriasis rosea**: Usually starts with a herald patch and follows a "Christmas tree" distribution. It rarely presents with pustules and is more scaly, which isn't described here. 
+- **Viral exanthem**: Could cause widespread redness and papules, but pustules are uncommon, and systemic symptoms (e.g., fever) are often present. 
+- **Allergic contact dermatitis**: Typically shows more defined borders, vesicles, or weeping, not pustules. 
+
+<think> The pustular component is critical. Folliculitis fits best: it explains the papules/pustules (inflamed hair follicles), diffuse redness, pruritus (leading to scratching), and texture changes. Bacterial (e.g., Staphylococcus) or fungal (e.g., Malassezia) causes are common in such widespread cases. Pityriasis rosea is unlikely due to the absence of scaling/herald patch and the presence of pustules. </think> 
+
+Based on the above analysis, this appears to be **folliculitis**, likely bacterial or fungal. I recommend consulting a dermatologist for confirmation—they may perform a swab test or skin scraping to identify the cause and prescribe targeted treatment (e.g., antibiotics or antifungals). Avoid scratching to prevent worsening or infection.

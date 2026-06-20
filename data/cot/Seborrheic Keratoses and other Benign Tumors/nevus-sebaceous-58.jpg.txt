@@ -1,0 +1,15 @@
+<think> First, I observe a well-demarcated, irregular plaque on the scalp with a raised, pebbled/cobblestone texture and yellowish-tan to reddish-brown coloration. The absence of hair within this plaque is notable. Adjacent to it is a solitary, dome-shaped purplish-red translucent nodule. The location (scalp), texture, color, and hair loss pattern are critical. </think> 
+
+In analyzing this case, I first categorize the potential disease type. The features described suggest a benign lesion rather than an infectious or inflammatory process, leading me to consider a neoplastic or genetic category. The presence of a well-demarcated plaque and a secondary nodule indicates a possible developmental anomaly or a benign tumor.
+
+<think> Then, I consider differential diagnoses: - **Plaque psoriasis**: Typically has silvery scales, not pebbled texture. Rarely hairless. - **Seborrheic keratosis**: Usually "stuck-on" appearance, not typically hairless or pebbled. - **Dermatofibroma**: Firm nodule, but not pebbled or hairless plaques. - **Nevus sebaceous**: Classically presents as a congenital, hairless, yellow-orange plaque with cobblestone texture on the scalp/face. The pebbled surface aligns perfectly. </think> 
+
+As I narrow down the differential diagnoses, I focus on the characteristics of the lesions. The irregular plaque's pebbled texture and hair loss are particularly indicative of a nevus sebaceous, which is known for its cobblestone appearance and congenital nature. The secondary dome-shaped nodule raises the possibility of a secondary growth, which is common in nevus sebaceous, especially after puberty.
+
+<think> The secondary dome-shaped nodule suggests a possible secondary tumor (e.g., syringocystadenoma papilliferum), which frequently develops within nevus sebaceous after puberty. The color shift (yellowish-tan → reddish-brown) and nodule formation fit its natural history. The absence of scaling, pustules, or erosions rules out infections or inflammatory conditions. The sharp demarcation and hair loss strongly favor a benign epidermal nevus variant. </think> 
+
+The typical pathological features supporting this reasoning include the well-defined borders of the plaque, the unique cobblestone texture, and the hair loss, which are all consistent with nevus sebaceous. The dome-shaped nodule's purplish-red color suggests a benign process, likely related to the nevus itself.
+
+<think> Given the classic features—scalp location, congenital hairless plaque, cobblestone texture, and secondary nodule—this is highly characteristic of **nevus sebaceous**. </think> 
+
+Based on this comprehensive analysis, I conclude that the lesion described is indeed a **nevus sebaceous**, a congenital benign hamartoma of sebaceous glands. While typically harmless, it is important for this lesion to be monitored by a dermatologist due to the potential for secondary growths, such as the nodule observed, or rare malignant transformations over time.

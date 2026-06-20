@@ -1,0 +1,15 @@
+<think> First, I observe the bilateral distribution of lesions on the lower legs and ankles, which suggests a systemic rather than localized process. The reddish-purple color is characteristic of *purpura*, indicating extravasated blood in the skin, often due to vascular inflammation or damage. The lesions are described as papules and nodules, which can signify deeper dermal involvement. </think> 
+
+Next, I note the variation in lesion morphology: some are round/oval, while others are irregular and coalescing with surface crusting/erosion. Crusting often indicates necrosis or ulceration, common in conditions where vessel inflammation leads to tissue breakdown. The clustering around the ankles is notable, as this area is prone to stasis and vascular stress. 
+
+<think> I then consider differential diagnoses: 
+- **Vasculitis** (e.g., leukocytoclastic vasculitis or IgA vasculitis/Henoch-Schönlein purpura) fits well: it causes purpuric papules/nodules, bilateral lower limb distribution, and crusting from ischemic damage. 
+- **Other possibilities**: 
+    - *Infection* (e.g., deep fungal or bacterial) might cause nodules but typically lacks symmetrical purpura. 
+    - *Insect bites* could present with papules but are rarely symmetrical or purpuric. 
+    - *Vasculopathy* (e.g., livedoid vasculopathy) may cause ulceration but usually features stellate purpura, not papules/nodules. 
+    - *Panniculitis* (e.g., erythema nodosum) presents with nodules but is typically tender and erythematous, not purpuric. </think> 
+
+The combination of purpuric papules/nodules, bilateral symmetry, crusting, and lower-leg predominance strongly points to **cutaneous vasculitis**, likely involving small vessels. The absence of described systemic symptoms (e.g., fever, joint pain) doesn't rule this out, as skin-limited forms exist. Histopathology would be confirmatory, but clinically, vasculitis is the leading diagnosis. 
+
+<think> Based on the description, your skin lesions are consistent with **vasculitis**, likely a small-vessel vasculitis affecting the lower extremities. This condition involves inflammation of blood vessels, leading to the purpuric papules, nodules, and crusting you observed. I recommend consulting a dermatologist for confirmation (possibly via biopsy) and management. </think>

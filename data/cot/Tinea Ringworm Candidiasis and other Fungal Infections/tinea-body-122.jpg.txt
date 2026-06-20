@@ -1,0 +1,17 @@
+<think> First, I observe the key features described:  - **Location**: Dorsal hand, wrist, and distal forearm (hairy skin).   - **Lesion morphology**: Red papules and plaques, some merging, with **irregular/snake-like borders** – a classic "active border" sign.   - **Surface changes**: Thickened/scaly skin (lichenification), scratch marks (excoriation), and crusting.   - **Hair involvement**: Lesions cover hairy areas without follicular pustules described. </think>
+
+<think> Next, I consider common dermatological conditions:   
+- **Tinea corporis/circinata (ringworm)**: Highly probable. The snake-like borders suggest an advancing, scaly edge typical of fungal infections. Plaque merging, scaling, and crusting align with inflammatory tinea. Hair presence doesn't rule this out, as tinea can affect hairy skin.   
+- **Nummular eczema**: Could cause plaques, lichenification, and crusting from scratching, but lacks distinct wavy borders. Usually symmetric and intensely pruritic.   
+- **Psoriasis**: Plaques with scale are common, but borders are typically sharp and geometric, not wavy. Less likely without silvery scale or nail/joint involvement.   
+- **Contact dermatitis**: Often has ill-defined borders and vesiculation, not described here. Lichenification suggests chronicity.   
+- **Lichen simplex chronicus**: Secondary to scratching, causing lichenification, but primary lesions (papules/plaques) and wavy borders aren't typical. </think>
+
+<think> The **snake-like borders** are pivotal—this is a hallmark of tinea, where fungal spread creates annular patterns. Crusting and excoriation indicate secondary inflammation from scratching, common in tinea due to pruritus. Lichenification suggests chronic irritation. Hair coverage doesn't exclude diagnosis, as tinea corporis can occur in hairy regions. </think>
+
+<think> Ruling out:   
+- No vesicles/bullae (pemphigoid).   
+- No pustules (bacterial folliculitis).   
+- No target lesions (erythema multiforme). </think>
+
+<think> Conclusion: The combination of annular plaques with active, wavy borders, scaling, and secondary changes strongly points to a fungal infection. </think> Based on the description, this appears to be **tinea corporis** (ringworm), a fungal skin infection. The snake-like borders, merging plaques, scaling, and crusting are characteristic. Scratching likely worsened the inflammation, causing lichenification. I recommend consulting a dermatologist for a skin scraping (KOH test) to confirm and discuss antifungal treatments.

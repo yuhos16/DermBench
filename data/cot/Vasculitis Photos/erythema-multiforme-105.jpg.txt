@@ -1,0 +1,13 @@
+<think> First, I observe the key features: multiple reddish-pink lesions on the dorsal hand, wrist, and proximal forearm. The lesions show distinct morphologies—many are annular (ring-shaped) or arcuate (arc-shaped) with raised, erythematous borders and central clearing. Additionally, there are discrete, raised, round/oval papules or plaques. The distribution is primarily distal (hand) with proximal extension, and the surrounding skin is normal. </think> 
+
+<think> Next, I consider the differential diagnosis for annular lesions with raised borders and central clearing:  
+- **Erythema multiforme (EM)** is a strong candidate. It typically presents with target-like lesions (annular with central clearing) on acral sites like hands/forearms. The lesions can be polymorphic (papules, plaques, arcs), and the acute onset fits.  
+- **Granuloma annulare** often has annular plaques but usually lacks the vivid erythema and central vesicle/clearing of EM; it’s more common on joints.  
+- **Tinea corporis** (ringworm) can show annular lesions but typically has scaling at the border, which isn’t described here.  
+- **Erythema annulare centrifugum** has trailing scale and favors trunk/thighs. </think> 
+
+<think> The absence of scale makes tinea unlikely. The acral distribution (dorsal hand) and polymorphic lesions (annular, arcuate, papules) strongly support EM. The central clearing in annular lesions is classic for "target lesions" in EM, often triggered by infections (e.g., HSV) or medications. No systemic symptoms are mentioned, suggesting EM minor. </think> 
+
+<think> Finally, granuloma annulare is usually asymptomatic and chronic, while EM is acute—consistent with a patient seeking urgent advice ("what’s wrong?"). Thus, EM best explains the findings. </think> 
+
+Based on the description, this appears to be **erythema multiforme**. It’s an acute reaction often triggered by infections (like herpes simplex) or medications, causing target-like lesions on the hands/arms. I recommend consulting a dermatologist for confirmation and to identify potential triggers.

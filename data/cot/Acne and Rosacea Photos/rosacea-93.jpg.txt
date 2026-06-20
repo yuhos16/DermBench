@@ -1,0 +1,19 @@
+<think> First, I observe the location: the affected area is on the left cheek, extending to the outer eye corner and temple. This is a centrofacial distribution, which is common in several inflammatory skin conditions. </think> 
+
+Next, I note the morphology: multiple erythematous (red) papules (small raised bumps) and plaques (larger flat-topped raised areas), clustered in patches. The lesions are described as raised with a slightly irregular surface texture. There are no explicit mentions of pustules, scales, vesicles, or erosions. 
+
+<think> The background skin shows age-related changes like wrinkles, suggesting the patient is likely middle-aged or older. This helps narrow down age-related conditions. </think> 
+
+Now, I consider common differential diagnoses for facial papules/plaques: 
+
+- **Acne vulgaris**: Typically includes comedones (blackheads/whiteheads), pustules, or cysts. Absence of these makes acne less likely. 
+- **Allergic or irritant contact dermatitis**: Usually presents with intense itching, vesicles, or oozing—not described here. 
+- **Seborrheic dermatitis**: Often affects eyebrows/nasolabial folds with greasy scales; no scaling mentioned. 
+- **Lupus erythematosus** (e.g., discoid lupus): Typically has scaly plaques and scarring; texture here is "slightly irregular" but not scaly. 
+- **Rosacea**: Characterized by centrofacial erythema, papules, and plaques—often without comedones. Periocular involvement (outer eye corner) is common in subtype 2 (papulopustular rosacea). The age group (older adults) and absence of scaling align well. 
+
+<think> The clustered erythematous papules/plaques with irregular texture hint at chronic inflammation and vascular involvement (common in rosacea). No systemic symptoms (e.g., joint pain) or acute signs (e.g., blistering) support a localized condition like rosacea over autoimmune or infectious causes. </think> 
+
+Thus, the findings strongly point toward **rosacea**, specifically papulopustular or erythematotelangiectatic subtypes. 
+
+<think> Based on the description, your skin appears to show signs of **rosacea**. This is a chronic inflammatory condition typically affecting the central face, characterized by redness, papules, and plaques—often aggravated by triggers like sun exposure or stress. I recommend consulting a dermatologist for confirmation and management, which may include topical/oral medications and lifestyle adjustments. </think>

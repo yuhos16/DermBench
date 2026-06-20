@@ -1,0 +1,18 @@
+<think> First, I observe the key characteristics: multiple raised, dome-shaped to nodular lesions with a **hypopigmented/yellowish appearance** against dark skin. The distribution is broad across the central chest and upper abdomen. The presence of darker linear marks suggests **excoriations** (scratch marks), indicating pruritus (itching). </think> 
+
+Next, I consider the general disease category this case may belong to. Given the description of raised lesions that are itchy and associated with excoriations, this case likely falls under the **inflammatory** disease category. Inflammatory skin conditions often present with pruritus and can lead to secondary changes such as excoriations.
+
+<think> Next, I consider differential diagnoses:  
+1. **Prurigo nodularis**: Fits well—itchy, firm nodules often hypopigmented in darker skin, with excoriations. Common on trunk/extremities.  
+2. **Xanthomas**: Yellowish nodules, but typically linked to lipid disorders; less likely without systemic context.  
+3. **Epidermal nevus**: Usually hyperpigmented/verrucous and linear; hypopigmented variants are rare.  
+4. **Molluscum contagiosum**: Dome-shaped but often umbilicated; not typically hypopigmented.  
+5. **Dermatofibromas**: Firm nodules, but usually singular/hyperpigmented. </think> 
+
+Now, I will progressively narrow down to potential specific diseases. Among the differential diagnoses, **prurigo nodularis** stands out as the most fitting option due to its characteristic presentation of itchy, firm nodules that can be hypopigmented in darker skin tones. The presence of excoriations further supports this diagnosis, as patients often scratch the lesions due to intense itching.
+
+<think> The **hypopigmentation + excoriations + nodularity** strongly point toward **prurigo nodularis**, especially given the itch-induced scratching marks. Hypopigmentation can occur in chronic pruritic conditions due to post-inflammatory changes in melanin. The broad truncal distribution aligns with this diagnosis. </think> 
+
+In contrast, while **xanthomas** can present as yellowish nodules, they are typically associated with systemic lipid disorders and would require additional clinical context to support this diagnosis. **Epidermal nevi** and **molluscum contagiosum** do not fit the hypopigmented description well, and **dermatofibromas** are usually solitary and hyperpigmented.
+
+Based on the above analysis, I conclude that this presentation is most consistent with **prurigo nodularis**, a chronic inflammatory skin condition characterized by intensely itchy nodules. The hypopigmentation and excoriations are common features, especially in darker skin tones. I recommend consulting a dermatologist for confirmation and management, as treatments like topical steroids or phototherapy may help.

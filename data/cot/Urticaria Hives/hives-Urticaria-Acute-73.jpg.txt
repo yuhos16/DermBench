@@ -1,0 +1,9 @@
+<think> First, I observe the description of widespread erythematous lesions – meaning they're red or pink. This indicates inflammation or dilation of superficial blood vessels. The lesions are elevated and edematous (swollen), which suggests fluid accumulation in the dermis. The clearly defined, raised borders are a key feature, often seen in wheals. The morphology includes circular/ring-shaped lesions of varying sizes, with some coalescing into larger irregular patches. This pattern of merging lesions is highly characteristic of urticarial wheals. The distribution is substantial over a limb, indicating a widespread rather than localized process. </think>
+
+<think> Then, I consider common conditions that present this way. Ring-shaped lesions might suggest granuloma annulare or erythema annulare centrifugum, but those typically lack the prominent edema and acute presentation described here. The edema and transient nature (implied by the "acute" context) point toward a hypersensitivity reaction. Viral exanthems or contact dermatitis could cause redness, but they usually lack such well-defined, intensely edematous borders. The absence of scales, vesicles, or central clearing rules out many annular disorders. </think>
+
+<think> The description strongly aligns with urticaria (hives), where histamine release causes vascular leakage, leading to these transient, swollen, erythematous wheals that can be annular or merge into plaques. The acute nature is suggested by the lack of mention of chronicity or systemic symptoms. </think>
+
+<think> Finally, the coalescence of lesions, the edema, and the sharp borders are virtually pathognomonic for urticaria. No other common acute condition fits this combination perfectly. </think>
+
+Based on the description provided, your skin appears to show signs of **acute urticaria** (hives).

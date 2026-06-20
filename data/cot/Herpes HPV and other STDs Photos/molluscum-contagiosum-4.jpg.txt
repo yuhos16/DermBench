@@ -1,0 +1,13 @@
+<think> First, I observe the key features described: multiple scattered, raised lesions that are **dome-shaped papules**. Their color ranges from skin-toned to pink or pearly, which suggests a translucent or waxy quality. The **central umbilication** (small depression) is a highly specific characteristic that narrows down the differential diagnosis significantly. The lesions are small (a few millimeters) and can appear both clustered and solitary, indicating possible autoinoculation. The surrounding skin is normal, implying no significant inflammation or secondary infection. </think>
+
+Next, I consider common conditions with umbilicated papules: 
+
+- **Molluscum contagiosum** is a viral infection (poxvirus) that classically presents with flesh-colored, dome-shaped papules with central umbilication. The pearly appearance, small size, and tendency to cluster align perfectly. It’s common in children but can occur in adults, often spreading via direct contact. 
+- Other possibilities like **warts** (verruca vulgaris) typically lack umbilication and have a rough surface. 
+- **Folliculitis** or **acne** might show pustules but not uniform umbilication. 
+- **Granuloma annulare** can have annular lesions but not central dimpling. 
+- **Basal cell carcinoma** might be pearly but rarely presents with multiple umbilicated papules and is usually solitary in early stages. 
+
+<think> The combination of **dome shape + central umbilication + pearly hue + small size + clustering** is virtually pathognomonic for molluscum contagiosum. No other common condition fits this constellation so precisely. The lack of scaling, crusting, or inflammation further supports this. </think> 
+
+Based on the description, this appears to be **molluscum contagiosum**, a common, benign viral skin infection. It’s contagious but usually self-resolves over time. Avoid scratching to prevent spread.

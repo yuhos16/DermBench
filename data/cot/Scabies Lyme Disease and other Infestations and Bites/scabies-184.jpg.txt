@@ -1,0 +1,15 @@
+<think> First, I observe the presence of **scattered reddish papules and small nodules** on the dorsal hand and wrist. This suggests an inflammatory or infectious process. The **linear scratch marks (excoriation)** indicate intense pruritus (itching), which is a key symptom driving the patient's behavior. The **crusting** on some lesions implies secondary changes from trauma (scratching) or possible superinfection. Crucially, I note **several short, linear, raised lesions** on the wrist—this morphology is highly characteristic of **burrows**, pathognomonic for scabies. </think>
+
+In analyzing the general disease category, the presence of reddish papules and nodules, along with intense itching and excoriation, suggests an inflammatory or infectious process. The linear burrows observed are particularly indicative of a parasitic infection, specifically scabies, caused by the mite *Sarcoptes scabiei*. 
+
+<think> Considering differentials:  
+- **Eczema/Dermatitis**: Can cause papules and excoriation but lacks distinct linear burrows.  
+- **Insect Bites**: May present as papules but are rarely clustered on hands/wrists and lack burrows.  
+- **Folliculitis**: Papules/pustules centered on hair follicles, not typically on dorsal hands.  
+- **Cutaneous Larva Migrans**: Shows serpiginous tracks but not papules/nodules. </think>
+
+As I narrow down the potential specific diseases, I consider the differential diagnoses. Eczema or dermatitis could explain the papules and excoriation but would not present with the characteristic burrows. Insect bites could cause similar symptoms but are less likely to cluster in the described areas and do not form burrows. Folliculitis typically presents with lesions around hair follicles, which is not the case here, and cutaneous larva migrans would show a different morphology. 
+
+<think> The **combination** of intensely itchy papules/nodules, excoriations, crusting, and—most critically—the **linear burrows on the wrist** points strongly to **scabies**. The mite *Sarcoptes scabiei* burrows in the skin, causing the burrows and a hypersensitivity reaction (papules/nodules). Pruritus worsens at night, leading to scratching. The dorsal hands and wrists are classic locations. </think>
+
+Based on the detailed analysis of the symptoms and the specific characteristics of the lesions, the most logical diagnostic conclusion is scabies. The presence of linear burrows, intense itching leading to excoriation, and crusting are hallmark features of this condition. It is advisable for the patient to consult a healthcare provider for confirmation through a skin scraping and to initiate appropriate treatment.

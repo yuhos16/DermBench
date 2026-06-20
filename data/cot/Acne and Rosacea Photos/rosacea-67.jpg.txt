@@ -1,0 +1,17 @@
+<think> First, I observe the distribution of symptoms: central facial involvement including cheeks, nose, forehead, and chin. This centrofacial pattern is characteristic of several dermatological conditions. </think> 
+
+<think> Then, I note the key features:  
+- **Diffuse, persistent redness** (erythema) most prominent on cheeks/nose  
+- **Small inflammatory papules** (red bumps) without pus or comedones  
+- **Telangiectasia** (visible blood vessels) on nose/cheeks  
+- **Nasal skin thickening** and textural changes suggesting early rhinophyma </think> 
+
+<think> I consider common differentials:  
+1. **Acne vulgaris**: Typically shows comedones (blackheads/whiteheads), pustules, and affects broader areas (jawline/back). Absent here.  
+2. **Seborrheic dermatitis**: Features greasy scales in eyebrows/nasolabial folds, not described.  
+3. **Lupus erythematosus**: Malar rash spares nasolabial folds; lacks vascular changes/thickening.  
+4. **Rosacea**: Matches *all* described signs: centrofacial erythema, papules, telangiectasia, and phymatous changes. </think> 
+
+<think> The absence of scaling, discrete plaques, or systemic symptoms rules out psoriasis or lupus. The vascular abnormalities and nasal texture changes are highly specific to rosacea, particularly the erythematotelangiectatic and papulopustular subtypes. </think> 
+
+Based on the clinical presentation, you likely have **rosacea**. This chronic inflammatory condition typically requires medical management—consult a dermatologist for confirmation and treatment options.

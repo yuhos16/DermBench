@@ -1,0 +1,17 @@
+<think> First, I observe the key features: - **Location:** Scalp - **Appearance:** Circumscribed, yellowish-to-flesh-toned plaque - **Texture:** Thickened, raised with a **distinct pebbly/cobblestone surface** (confluent papules/nodules) - **Hair:** Absence of terminal hair (alopecia) within the lesion - **Borders:** Irregular at the interface with normal scalp. Now, I consider differential diagnoses for a localized, alopecic scalp plaque with a pebbly texture: </think>
+
+1. **Nevus Sebaceus:** This is a strong candidate. It classically presents as a **solitary, hairless, yellow-orange to flesh-colored plaque** with a **cobblestone or pebbled surface**. It's congenital but often becomes more noticeable around puberty. The irregular border and alopecia fit perfectly. 
+
+2. **Tinea Capitis (Ringworm):** Can cause alopecia and scaling, but the **pebbly texture is not typical**. It usually presents with broken hairs, black dots, scaling, or inflammation (kerion), which aren't described. The color (yellowish-flesh) also isn't classic. 
+
+3. **Alopecia Areata:** Causes smooth, well-demarcated bald patches, **lacking the raised, pebbly texture** described. The skin looks normal, not thickened or yellowish. 
+
+4. **Psoriasis:** Scalp psoriasis causes thick, scaly, red/silver plaques. **Pebbly texture isn't characteristic**, and alopecia is uncommon unless severely scratched. The color (yellowish-flesh) doesn't fit. 
+
+5. **Scarring Alopecias (e.g., Lichen Planopilaris):** Cause permanent hair loss but typically show **perifollicular scaling, erythema, or smooth atrophy**, not a pebbly surface. Borders are often less irregular. 
+
+6. **Cutaneous Mastocytoma:** Can have a pebbly surface but is usually **brownish**, and rubbing causes urtication (Darier's sign), not mentioned here. Alopecia isn't typical. 
+
+<think> The **pebbly/cobblestone texture** combined with **localized alopecia, yellowish color, thickened plaque, and irregular borders** is **highly characteristic of Nevus Sebaceus**. This is a hamartoma of sebaceous glands and other skin structures. Tinea capitis is unlikely due to the lack of scaling, broken hairs, or inflammation, and the very specific texture doesn't match. </think> 
+
+Based on the description, this appears to be a **nevus sebaceus**. It's a common, benign birthmark of the scalp characterized by the hairless, yellowish, pebbly plaque you described. While usually harmless, it's recommended to have a dermatologist examine it, as it can rarely develop secondary changes later in life.

@@ -1,0 +1,13 @@
+<think> First, I observe the key features described: the skin shows redness, inflammation, scaling, peeling, cracking, and small raised bumps. The distribution is focused on the fingers, particularly around the knuckles and sides, with some areas more affected than others. Symptoms suggest irritation, possibly with itching or pain. </think> 
+
+<think> Next, I consider common hand dermatoses:  
+- **Eczema (dyshidrotic or irritant)**: Often presents with vesicles (small bumps), scaling, and fissuring on fingers/sides. Knuckle involvement is common. Intense itching aligns.  
+- **Psoriasis**: Typically shows thick scales/silvery plaques, but can affect hands (like "psoriatic fissured pulpitis"). Knuckles are less classic, though possible.  
+- **Contact dermatitis**: Could explain localized irritation if triggered by allergens/irritants (e.g., soaps, chemicals).  
+- **Fungal infection**: Less likely without mention of spreading or central clearing, but can mimic inflammation. </think> 
+
+<think> The absence of pustules, blisters, or nail changes rules out some conditions (e.g., pustular psoriasis). Knuckle-centric inflammation with scaling/cracking is highly suggestive of **chronic hand eczema** (likely dyshidrotic or irritant type). Psoriasis is possible but less fitting due to the described bump morphology and peeling. Lichen sclerosus rarely affects hands and typically causes white, sclerotic patches—not mentioned here. </think> 
+
+<think> Ultimately, the combination of vesicles, scaling, cracking, and finger-knuckle focus points strongly toward **eczema**. A patch test or biopsy would confirm, but clinically, this is the most probable. </think> 
+
+Based on the description, your skin condition appears most consistent with **eczema**, likely a form of chronic hand eczema such as dyshidrotic or irritant contact dermatitis. However, a definitive diagnosis requires evaluation by a dermatologist.

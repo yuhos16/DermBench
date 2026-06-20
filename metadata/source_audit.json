@@ -1,0 +1,25 @@
+{
+  "generated_on": "2026-06-20",
+  "local_source_image_root": "Derm_image/test",
+  "local_source_cot_root": "Dermnet2/step4_txt/test",
+  "local_source_label_root": "Dermnet2/name_txt/test",
+  "source_total_image_identifiers": 4002,
+  "published_total_cot_files": 4000,
+  "published_categories": 23,
+  "bundled_images": false,
+  "exclusions": [
+    {
+      "dermnet_image_path": "Acne and Rosacea Photos/Forest-2.jpg",
+      "reason": "non-dermatology landscape image; diagnosis label is Forest 2"
+    },
+    {
+      "dermnet_image_path": "Atopic Dermatitis Photos/11IMG001.jpg",
+      "reason": "missing disease label in name text; diagnosis is None"
+    }
+  ],
+  "notes": [
+    "This release stores CoT/reference text only. DermNet images are not redistributed.",
+    "Use dermnet_image_path to align each CoT text with the corresponding DermNet test-set image after obtaining the images under the applicable DermNet terms.",
+    "The local source contained 4002 paired test identifiers, while the paper reports 4000 DermBench cases. Two problematic identifiers were excluded."
+  ]
+}

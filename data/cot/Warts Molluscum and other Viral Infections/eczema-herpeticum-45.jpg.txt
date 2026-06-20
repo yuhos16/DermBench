@@ -1,0 +1,19 @@
+<think> First, I observe the location: the lateral face, cheek, jawline, extending behind the ear and onto the upper neck, particularly along the hairline and beard area. This suggests involvement of hair-bearing regions and areas prone to friction or moisture. </think> 
+
+<think> Next, I note the morphology: numerous discrete, small, raised lesions. Their reddish-brown to dark red coloration indicates inflammation or blood deposition. The presence of crusting and hemorrhage (dark pinpoint scabs) suggests vesicular or pustular lesions that have ruptured, releasing serous fluid or blood. This combination points to an acute, eruptive process rather than chronic scaling. </think> 
+
+<think> Key features stand out: 
+- **Widespread distribution**: Lesions are scattered across multiple contiguous zones (face, neck, hairline), implying rapid spread or viral dissemination. 
+- **Crusted/hemorrhagic papules**: This is characteristic of vesicular lesions that have eroded. Hemorrhagic crusts often suggest viral etiologies like herpesviruses. 
+- **Beard/hairline focus**: Hair follicles may serve as entry points or amplification sites for infection. </think> 
+
+<think> Differential diagnosis: 
+1. **Folliculitis (bacterial/fungal)**: Could explain beard/jawline involvement, but less likely given hemorrhagic crusting and rapid spread. 
+2. **Impetigo**: Might cause crusting, but typically presents with honey-colored crusts, not dark red/hemorrhagic lesions. 
+3. **Acne or pseudofolliculitis**: Unlikely due to hemorrhagic nature and lack of comedones. 
+4. **Varicella (chickenpox)**: Can cause similar lesions, but usually more generalized, not confined to face/neck. 
+5. **Eczema herpeticum**: Fits best: rapid eruption of monomorphic vesicles that umbilicate, rupture, and form hemorrhagic crusts. Often arises in areas of pre-existing skin barrier disruption (e.g., eczema), which aligns with beard/neck/hairline involvement. The distribution matches typical herpes simplex virus spread in immunocompromised skin. </think> 
+
+<think> The hemorrhagic crusting and acute onset strongly favor a viral process. Given the localization to dermatomes often affected by HSV (trigeminal/cervical) and the crusted appearance, eczema herpeticum is the leading diagnosis. This requires urgent evaluation due to risk of systemic involvement. </think> 
+
+Based on the description, your skin appears to be affected by **eczema herpeticum**, a serious complication where the herpes simplex virus infects skin with pre-existing eczema or barrier damage. This causes widespread vesicular lesions that rupture, forming the characteristic crusted, hemorrhagic papules you described. **Please consult a healthcare provider immediately** for confirmation and antiviral treatment, as this can worsen rapidly without intervention.

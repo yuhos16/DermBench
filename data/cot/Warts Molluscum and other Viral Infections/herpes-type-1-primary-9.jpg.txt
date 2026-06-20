@@ -1,0 +1,23 @@
+<think> First, I observe the specific location: unilateral involvement of the nasal ala, cheek, nasolabial fold, and upper nose near the bridge. This follows a trigeminal nerve distribution (specifically V2/V3 branches), which is a key anatomical clue. </think> 
+
+Next, I note the primary features: 
+- **Significant erythema and swelling**: Indicates acute inflammation. 
+- **Clustered reddish lesions**: Grouping is highly characteristic of viral infections. 
+- **Small vesicles**: Fluid-filled blisters suggest viral etiology. 
+- **Crusted erosions**: Indicate ruptured vesicles in the healing phase. 
+- **Linear/grouped pattern**: Classic for herpes simplex virus (HSV) spread along nerve pathways. 
+
+<think> Differential diagnosis: 
+- **Herpes simplex (HSV-1)**: Top consideration due to grouped vesicles, crusting, unilateral facial distribution, and nerve involvement. Recurrent HSV often affects the nose/lips. 
+- **Herpes zoster (shingles)**: Could present similarly but usually follows a strict dermatome with intense pain; less likely without mention of neuralgia. 
+- **Impetigo**: Bacterial, but typically golden crusts without grouped vesicles; bilateral/multifocal. 
+- **Allergic contact dermatitis**: Rarely unilateral or vesicular in this pattern. </think> 
+
+Key exclusion: 
+- No pustules (rules out folliculitis). 
+- No scales/plaques (rules out psoriasis/eczema). 
+- Acute onset with vesicles + crusting strongly favors HSV. 
+
+<think> The progression (vesicles → erosions → crusts) aligns perfectly with herpes simplex. Location on the nose is a common site for HSV-1 recurrence ("herpes nasalis"). </think> 
+
+Conclusion: The findings are diagnostic of a herpes simplex virus infection, likely type 1 (HSV-1). This requires antiviral treatment (e.g., acyclovir) and avoids touching/spreading the lesions.

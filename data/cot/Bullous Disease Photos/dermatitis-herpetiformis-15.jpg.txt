@@ -1,0 +1,20 @@
+<think> First, I observe the key features described: multiple discrete lesions in the temple area, near the hairline and eyebrow. The primary lesion is irregular, reddish-brown, crusted/scabbed, and has a hair follicle within or adjacent to it. Nearby, there are smaller raised reddish lesions (papules/nodules) with early surface changes or crusting. The surrounding skin shows uneven texture and visible pores.  </think>
+
+Next, I consider the location and morphology: 
+- The temple area is sebaceous-rich and prone to follicular issues. 
+- The irregular, crusted main lesion with a hair follicle suggests follicular involvement—possibly an inflamed, traumatized, or infected hair follicle. Crusting often indicates excoriation, weeping, or secondary infection. 
+- The smaller reddish papules/nodules with surface changes imply active inflammation or evolving lesions, possibly related to the primary lesion. 
+- The uneven texture and pores point toward chronic skin changes or sebaceous prominence. 
+
+<think> Differential diagnoses come to mind: 
+1. **Folliculitis or bacterial infection**: Hair follicle involvement, crusting, and inflammation align with this. *Staphylococcus* infections often cause pustules/crusts. 
+2. **Acne vulgaris**: Papules, nodules, and follicular lesions fit, especially with visible pores. Crusting could indicate picked or traumatized lesions. 
+3. **Actinic keratosis (AK)**: Irregular, crusted lesions in sun-exposed areas (temples) could suggest early AK, but AK is typically scaly, not papulonodular. 
+4. **Dermatitis herpetiformis (DH)**: DH causes intensely itchy vesicles/papules, but lesions are usually symmetric on elbows/knees, not unilateral temples. No vesicles are described, and follicular involvement isn't classic. 
+5. **Rosacea**: Papules and texture changes occur, but crusting and irregular lesions are atypical. Rosacea favors the central face.  </think>
+
+The follicular focus, crusting, and lesion clustering near hair follicles strongly favor **folliculitis or inflamed acne lesions**. The crusted main lesion likely represents a ruptured/traumatized papule or furuncle. Smaller lesions could be satellite inflammation. DH is unlikely without vesicles, symmetry, or intense pruritus. 
+
+<think> Final assessment: This resembles **inflammatory acne with excoriation** or **bacterial folliculitis**, possibly exacerbated by manipulation (crusting suggests picking). A dermatologist should confirm via exam to rule out infection or neoplastic changes. </think> 
+
+Based on the description, your skin appears to show signs of **inflammatory acne with possible secondary excoriation or folliculitis**. The crusted lesion suggests trauma or infection of a hair follicle, and the smaller papules indicate ongoing inflammation. I recommend consulting a dermatologist for accurate diagnosis and treatment.

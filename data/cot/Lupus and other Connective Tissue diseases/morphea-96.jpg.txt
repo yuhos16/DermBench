@@ -1,0 +1,14 @@
+<think> First, I observe the key features: symmetric, broad reddish-purple bands in the upper chest/clavicular regions, following anatomical contours (supraclavicular/infraclavicular). The affected skin is smooth without scaling, erosions, vesicles, or significant texture changes. Minor incidental lesions (moles/skin tags) are noted but appear unrelated to the primary redness. </think> 
+
+<think> Next, I consider the differential diagnosis:  
+1. **Inflammatory conditions**: Symmetry suggests systemic involvement. The violaceous (red-purple) hue points to deeper dermal inflammation rather than superficial epidermal issues like eczema (which typically itches/scales) or psoriasis (usually scaly).  
+2. **Vascular patterns**: The band-like distribution along tension lines isn’t classic for livedo reticularis (net-like) or vasculitis (often palpable).  
+3. **Autoimmune disorders**:  
+   - Dermatomyositis’s "shawl sign" affects the chest but usually involves violaceous papules/poikiloderma, not smooth bands.  
+   - Lupus rashes favor the face and show photosensitivity, with scaling in discoid forms.  
+4. **Sclerosing disorders**: The *curved, symmetrical bands* aligning with clavicular contours and the *violaceous color* are hallmark of **early morphea (localized scleroderma)**. Morphea often presents in this "en coup de sabre" pattern on the trunk, with initial inflammation (red-purple) before sclerosis develops. The absence of scaling/itching supports this over eczematous or lichenoid conditions.  
+5. **Other rashes**: Pityriasis rosea follows skin lines but is typically salmon-colored with collarette scaling. Contact dermatitis would likely itch or blister. The smooth texture rules out papulosquamous disorders, while symmetry and anatomical alignment make infection (e.g., shingles, unilateral) unlikely. Minor pigmentary changes are non-contributory. </think> 
+
+<think> Conclusion: The *combination* of symmetric violaceous bands following skin tension lines on the upper chest, without epidermal changes, strongly favors **morphea** in its inflammatory phase. </think> 
+
+Based on the description, your skin appears to show signs consistent with **morphea**, a form of localized scleroderma. This condition often starts with reddish-purple, symmetrical patches or bands that follow the contours of the body (like the clavicular areas you described), and it typically lacks scaling or blistering. I recommend consulting a dermatologist for confirmation—they may suggest a skin biopsy or blood tests to rule out other conditions and discuss treatment options to manage inflammation and prevent skin thickening.

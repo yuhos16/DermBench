@@ -1,0 +1,13 @@
+<think> First, I observe the key features: a **linear band** running longitudinally along the limb with **mixed hyperpigmentation (dark brown) and hypopigmentation (whitish streaks)**. The texture is irregular—**thickened/papular areas** alongside **atrophic, shiny, depressed scarring**. Subtle **reddish/violaceous hues** suggest past or present inflammation. The surrounding skin is normal. </think> 
+
+<think> Next, I consider possible diagnoses with linear patterns:  
+- **Lichen striatus**: Common in children, follows Blaschko's lines, but typically self-resolves without scarring. The atrophy here is atypical.  
+- **Linear morphea (localized scleroderma)**: Fits perfectly—linear bands of hyper/hypopigmentation, skin thickening (early phase), and later atrophy/scarring. Violaceous hues indicate active inflammation.  
+- **Linear epidermal nevus**: Usually hyperkeratotic (warty) without atrophy or pigment loss.  
+- **Post-inflammatory changes**: Unlikely due to the persistent linear band and scarring. </think> 
+
+<think> The **atrophy** is critical: it points to collagen damage, seen in morphea. The **longitudinal orientation** aligns with "en coup de sabre" morphea on limbs. No blisters, scales, or erosions rule out eczematous or infectious causes. </think> 
+
+<think> Finally, **diabetes-related dermopathy** (e.g., shin spots) wouldn’t be linear or show mixed pigment/texture changes. </think> 
+
+Conclusion: This is **linear morphea**, an autoimmune disorder causing sclerotic skin changes. I recommend seeing a dermatologist for confirmation—often via biopsy—and discussing treatments like topical steroids or phototherapy to manage inflammation.

@@ -1,0 +1,18 @@
+<think> First, I observe the description: widespread reddish-brown spots with hyperpigmented areas on likely torso/back skin. The lesions are mixed—some raised (papules), some flat (macules)—and diffusely distributed with central concentration. This rules out localized conditions like a single nevus or infection. </think>
+
+Next, I categorize the potential disease types. Given the characteristics of the lesions, I consider the general categories of skin diseases: infectious, inflammatory, neoplastic, and genetic. The widespread nature and the description of the lesions suggest a non-infectious process, likely falling under the neoplastic or benign proliferative category.
+
+<think> Then, I consider common dermatoses with this presentation. The color (reddish-brown to dark brown) suggests pigmented lesions rather than vascular or inflammatory ones. The variation in morphology (papules and macules) and diffuse distribution points to a benign epidermal proliferation. Seborrheic keratosis (SK) fits well: it often presents as multiple "stuck-on" papules/plaques in varying brown shades, commonly on the trunk. The hyperpigmented areas could indicate irritation or inflammation (e.g., from scratching), which darkens SK lesions. </think>
+
+I then narrow down the possibilities further. Other potential conditions include:
+
+- **Lentigines**: Typically present as uniform macules, which do not match the raised and flat morphology described.
+- **Dermatosis papulosa nigra**: Usually smaller lesions found on the face and neck, not widespread on the torso.
+- **Atypical nevi**: These often have irregular borders and colors, but the symmetric and widespread distribution here does not align with this diagnosis.
+- **Tinea versicolor**: This fungal infection typically causes hypopigmentation rather than hyperpigmented lesions, which does not fit the description.
+
+<think> The lack of scaling, erosions, or vesicles argues against eczema or infections. The age isn't provided, but SK is age-related and common in adults. Irritation could explain redness alongside hyperpigmentation. </think>
+
+Based on the analysis of the lesion characteristics—color, morphology, distribution, and the absence of other symptoms—I conclude that the most fitting diagnosis is irritated seborrheic keratoses. These benign growths can become inflamed or darker due to friction or scratching, leading to the observed reddish-brown discoloration and varied textures (flat to raised). They are commonly found on the torso and tend to increase in prevalence with age.
+
+<think> Thus, irritated seborrheic keratoses align best with the description. However, I recommend seeing a dermatologist for confirmation, as visual examination (or biopsy) is needed to rule out other conditions. </think>

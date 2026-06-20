@@ -1,0 +1,15 @@
+<think> First, I observe the lesion's location: left head, extending from preauricular area to cheek, involving both hair-bearing scalp and non-hair-bearing skin. This distribution follows a linear/band-like pattern, which often correlates with developmental or embryological lines (e.g., Blaschko's lines). </think> 
+
+Next, I analyze the key characteristics of the lesion. The **color** is described as dark brown to black pigmentation, which suggests melanin involvement or hyperpigmentation. The **texture** is noted to be thickened, verrucous (warty), and cobblestone-like, indicating epidermal hyperplasia or keratinocyte overgrowth. Additionally, the presence of dark, coarse hairs within the lesion points to follicular involvement, often seen in conditions affecting multiple skin components. 
+
+<think> Considering the morphology: The irregular shape and band-like configuration are atypical for common acquired lesions (e.g., seborrheic keratosis or melanoma). Verrucous texture + hyperpigmentation + hypertrichosis (excess hair) suggests a hamartoma—a benign overgrowth of skin structures. Scalp involvement further supports a developmental disorder rather than an inflammatory or infectious process. </think> 
+
+In narrowing down the differential diagnosis, I consider several potential conditions: 
+1. **Becker nevus**: This is characterized by a hyperpigmented patch with hypertrichosis, but it typically appears on the shoulders or trunk and does not present as verrucous early on.
+2. **Linear epidermal nevus**: This fits the description perfectly—it is congenital, verrucous, pigmented, follows lines of Blaschko, and can show hypertrichosis.
+3. **Nevus sebaceous**: While often located on the scalp or face, it typically presents as yellowish and lacks the dark pigmentation described.
+4. **Melanocytic nevus**: This type usually does not exhibit a verrucous or band-like appearance.
+
+<think> The combination of verrucous surface, linear distribution, hypertrichosis, and location strongly points to an epidermal nevus—a benign malformation of the epidermis. </think> 
+
+Based on the above analysis, I conclude that this lesion is most consistent with an **epidermal nevus**. It is a benign, congenital skin condition caused by an overgrowth of skin cells, often presenting as a linear, pigmented, wart-like patch. While it is not dangerous, it is advisable for the patient to consult a dermatologist for confirmation and to discuss any monitoring or management options if desired.

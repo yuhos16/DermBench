@@ -1,0 +1,9 @@
+<think> First, I observe the key features described: widespread, intense redness affecting the forehead, temples, and cheeks. The skin appears swollen/puffy with a slightly bumpy texture and subtle, small raised lesions concentrated on the forehead and temples. The redness is diffuse and covers a large central facial area. </think> 
+
+<think> Next, I consider common facial dermatoses. Rosacea often causes central facial redness but typically features prominent telangiectasia, papules/pustules, or flushing triggers—none explicitly mentioned here. Seborrheic dermatitis usually involves scaling/oiliness in the eyebrows, nasolabial folds, or scalp, which isn't highlighted. Acne would show comedones or inflammatory papules/pustules, inconsistent with the "subtle, small raised lesions" described. </think> 
+
+<think> The swelling (edema) and diffuse redness suggest inflammation. The bumpy texture with small raised lesions points to a papular reaction. The acute, widespread involvement—especially temples/forehead (common sites for hair/skincare product contact)—strongly indicates an exogenous trigger. </think> 
+
+<think> Allergic contact dermatitis fits best: it causes erythema, edema, and papules in areas exposed to allergens (e.g., cosmetics, hair products, fragrances). The absence of scales, pustules, or pain/itching details doesn't contradict this, as presentations vary. Other possibilities like irritant contact dermatitis or photodermatitis are less likely without mention of burning/stinging or sun-exposure patterns. </think> 
+
+Based on the description, your skin appears to be showing signs of **allergic contact dermatitis**, likely triggered by an allergen in a product applied to your face or hair. I recommend consulting a dermatologist for patch testing to identify the specific cause and appropriate treatment.

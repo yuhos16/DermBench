@@ -1,0 +1,11 @@
+<think> First, I observe the key features described: redness, inflammation, swelling, peeling, flaking, and scaling concentrated on the fingers. The fingertips show prominent peeling, and the redness is accentuated around joints and finger sides. The absence of blisters, pustules, or weeping suggests this isn't an acute infection or vesicular process. The distribution (fingers, joints, sides) points to frequent contact exposure or friction. </think>
+
+Next, I consider common hand dermatoses:  
+- **Contact dermatitis** (irritant/allergic): Likely, given the exposure-prone sites. Irritant dermatitis often presents with dryness, scaling, and fissuring on fingertips from repeated wet work or chemicals.  
+- **Atopic dermatitis (eczema)**: Possible, especially if chronic, with similar redness, scaling, and lichenification. Hand involvement is common in flare-ups.  
+- **Psoriasis**: Can affect hands with scaling, but typically shows thicker plaques and silvery scales; fingertip peeling is less classic.  
+- **Fungal infection**: Less likely without maceration, satellite lesions, or asymmetric spread.  
+
+<think> The peeling/flaking, localized redness, and lack of other systemic symptoms (e.g., fever) steer me away from infections or autoimmune blistering disorders. The pattern aligns best with **chronic irritant contact dermatitis**, a subtype of hand eczema, triggered by repeated exposure to irritants (soaps, solvents) causing barrier disruption, inflammation, and scaling. Environmental factors likely exacerbate it. </think>
+
+Based on the description, this appears to be **hand eczema (dermatitis)**, likely irritant contact dermatitis. I recommend consulting a dermatologist for confirmation, patch testing to rule out allergens, and tailored treatment (emollients, topical steroids, irritant avoidance).

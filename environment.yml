@@ -1,0 +1,11 @@
+name: dermbench
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - openai>=1.86.0
+      - pillow>=11.1.0
+      - tqdm>=4.67.1
+

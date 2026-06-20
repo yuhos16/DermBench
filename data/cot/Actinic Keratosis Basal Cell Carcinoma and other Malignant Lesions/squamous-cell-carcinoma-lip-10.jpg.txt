@@ -1,0 +1,9 @@
+<think> First, I observe the key features described: - **Lower lip swelling and redness**: Indicates inflammation or possible infection. - **Prominent yellowish-white lesion in the center**: Raised, irregular, possibly ulcerated/eroded. This suggests tissue breakdown, which isn't typical for common lip conditions like chapping or cold sores. - **Second yellowish, crusted lesion on the left side**: Reinforces an abnormal process affecting the lip tissue. - **Redness, cracking, and crusting at mouth corners**: Consistent with angular cheilitis, often due to fungal/bacterial infection or irritation. - **Uneven lip surface with scaling/crust**: Suggests chronic damage or abnormal cell turnover. </think>
+
+<think> Then, I consider differential diagnoses: 1. **Herpes simplex (cold sores)**: Usually presents as grouped vesicles that crust, not persistent irregular ulcers. 2. **Angular cheilitis**: Explains the corner crusting but not the central lip lesion. 3. **Actinic cheilitis**: Sun-induced precancerous change could cause scaling but rarely large ulcerated masses. 4. **Squamous cell carcinoma (SCC)**: Fits best—common on the lower lip, appears as non-healing ulcers/plaques with crusting, often in sun-damaged skin. The irregular, raised, eroded lesion with surrounding inflammation is classic. </think>
+
+<think> The **yellowish-white appearance** hints at necrosis or keratin buildup, common in SCC. The **chronic, destructive nature** rules out transient infections. Angular cheilitis may be a secondary complication from lip integrity loss. </think>
+
+<think> Finally, I weigh risk factors: Lower lip SCC is linked to sun exposure, and the description implies chronic damage. Benign causes (e.g., eczema) wouldn’t show such focal, progressive ulceration. </think>
+
+The findings strongly suggest **squamous cell carcinoma of the lip**, with secondary angular cheilitis. **Urgent dermatological evaluation and biopsy are essential to confirm.**

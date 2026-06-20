@@ -1,0 +1,14 @@
+<think> First, I observe numerous small, reddish papules scattered widely across the chest and upper abdomen. The presence of central crusts or yellowish scales on many papules is a key feature – this suggests scaling or exudate typical of inflammatory dermatoses. Excoriations indicate significant pruritus (itching), pointing toward a condition that causes discomfort. The distribution across the trunk (not limited to flexural areas) and involvement of breast skin is notable. The skin laxity suggests an older patient, which informs age-related differentials. </think>
+
+Next, I consider common conditions that fit this pattern: 
+
+- **Folliculitis**: Papules might cluster around follicles, but widespread distribution with scaling isn't typical.
+- **Scabies**: Excoriations and papules align, but scabies favors wrists/finger webs and burrows are absent here.
+- **Atopic dermatitis**: Usually flexural; trunk involvement is atypical without lichenification.
+- **Pityriasis rosea**: Herald patch and Christmas-tree pattern aren't described.
+- **Fungal infection**: Scaling occurs, but annular lesions or sharp borders aren't noted.
+- **Seborrheic dermatitis (SebDerm)**: Fits well: papulosquamous lesions with yellowish scales, truncal distribution (especially sternum), common in elderly, and often pruritic. The central crusting resembles the "greasy scale" of SebDerm. 
+
+<think> The yellowish scales and truncal predominance strongly favor SebDerm. No vesicles, bullae, or annular lesions argue against alternatives like contact dermatitis or tinea. Age consistency supports SebDerm's prevalence in older adults. </think>
+
+Based on the description, your skin appears to be affected by **Seborrheic Dermatitis (SebDerm)**. This common inflammatory condition causes scaly, red papules—often with yellowish crusting—primarily on the trunk, face, and scalp. Itching leads to excoriations, and it's frequently seen in older individuals. A dermatologist can confirm this with a clinical exam and may recommend topical antifungals or anti-inflammatory treatments.

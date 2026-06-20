@@ -1,0 +1,11 @@
+<think> First, I observe the key characteristics described: a **linear, raised, reddish-pink stripe/wheal** on the inner forearm. The lesion has **sharply defined borders**, a **slightly paler center**, and appears against **otherwise healthy skin**. The term "wheal" is critical—it implies a transient, edematous (fluid-filled) papule or plaque typical of urticarial reactions. </think>
+
+Next, I consider the **linear morphology**. Linear lesions in dermatology often arise from external triggers like scratching, contact with irritants, or physical trauma. Common causes include:  
+- **Allergic contact dermatitis**: Usually itchy, scaly, or blistering—not described here.  
+- **Linear lichen planus**: Typically purple, pruritic papules—color doesn’t match.  
+- **Koebner phenomenon** (e.g., psoriasis): Would show scaling, which isn’t mentioned.  
+- **Dermatographism**: Precisely presents as linear wheals after minor pressure or scratching.  
+
+<think> The **pale center** aligns with dermatographism, where central pallor can occur due to reduced blood flow in the wheal’s apex. The absence of scaling, blisters, or systemic symptoms (e.g., fever) rules out infections (e.g., herpes zoster) or autoimmune blistering disorders. </think>
+
+Finally, the **benign context** (healthy surrounding skin, scattered incidental spots) supports a transient, reactive condition like dermatographism—a mast cell-mediated response to skin trauma. <think> Based on the description, your skin likely shows **dermatographism** ("skin writing"), where minor pressure (like scratching) triggers raised, red, linear wheals. It’s harmless but can be managed with antihistamines if bothersome. </think>

@@ -1,0 +1,14 @@
+<think> First, I observe the key features: numerous, widely distributed lesions that are elevated and vary in size from small papules to large nodules. The morphology includes dome-shaped or lobulated structures, which suggests a soft, fleshy consistency rather than scaling or crusting. The color is described as skin-colored to light tan or pinkish-brown, similar to or slightly darker than the surrounding skin, indicating minimal pigmentation deviation. The textured/convoluted surface on larger lesions is notable – this often correlates with a "peau d'orange" appearance or a wrinkled surface seen in certain tumors. </think>
+
+Next, I consider the distribution: generalized within the frame without specific anatomical clustering. This widespread pattern rules out localized conditions (e.g., acne, folliculitis) or linear arrangements (e.g., epidermal nevus). The lack of inflammation (no redness, pustules, or weeping) suggests a non-infectious, non-reactive process. 
+
+<think> Differential diagnosis: 
+- **Neurofibromas** fit perfectly: they present as soft, skin-colored to pink/tan nodules/papules, often lobulated or pedunculated, with variable size and a "buttonhole" sign (dimpling on pressure). The surface can appear wrinkled. Multiple lesions strongly suggest **neurofibromatosis type 1 (NF1)**, a genetic disorder. 
+- **Dermatofibromas** are typically smaller, firmer, hyperpigmented nodules, often solitary or few. 
+- **Lipomas** are deeper, softer, and mobile, lacking surface texture. 
+- **Epidermal cysts** have a central punctum and may inflame. 
+- **Keloids/hypertrophic scars** arise in trauma sites and are firm. 
+- **Molluscum contagiosum** has umbilicated centers and is contagious. 
+The absence of scale, crust, or inflammation rules out psoriasis, eczema, or infections. The multiplicity, size variation, and specific morphology align overwhelmingly with neurofibromas. Given the generalized distribution, **neurofibromatosis type 1** is the most likely diagnosis. </think>
+
+Based on the above analysis, your skin shows signs of **neurofibromatosis type 1**, characterized by multiple neurofibromas. I recommend consulting a dermatologist for confirmation and further evaluation.

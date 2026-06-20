@@ -1,0 +1,14 @@
+<think> First, I observe a **singular, well-defined reddish patch** with **sharp, angular borders** and a **rectangular/square shape**. This geometric configuration is highly unusual for most inflammatory or infectious skin conditions, which typically show rounded or irregular borders. The uniformity in color/texture and lack of scaling/blistering rules out psoriasis (scaly), eczema (ill-defined borders), or vesicular reactions. </think> 
+
+Next, I note the **surrounding skin is unaffected** except for faint smaller pink spots. This suggests an **exogenous trigger** rather than a systemic condition. The angularity implies direct contact with a **man-made object** (e.g., adhesive bandage, cosmetic applicator, or chemical wipe). 
+
+<think> I then consider **contact dermatitis**:  
+- **Allergic contact dermatitis** often presents with geometric patterns when exposure is to a specific shaped allergen (e.g., nickel in jewelry, preservatives in wipes).  
+- **Irritant contact dermatitis** could occur from prolonged contact with a rectangular object (e.g., medical tape, phone case).  
+The smaller satellite spots might indicate minor secondary contact or a less severe reaction in adjacent areas. Absence of scaling/blistering suggests a subacute phase. </think> 
+
+Differentials like **tinea corporis** (usually annular/scaly) or **nummular eczema** (coin-shaped, diffuse) don’t fit this description. **Lichen planus** has polygonal borders but typically appears violaceous and papular, not plaque-like. 
+
+<think> The sharp geometry is the critical clue: **this is likely a "flag sign" of contact dermatitis** where the lesion mirrors the shape of the offending agent. </think> 
+
+Based on the image description, this appears to be **contact dermatitis**—likely **allergic**—triggered by direct exposure to a rectangular object or substance. To identify the specific cause, **patch testing** is recommended. Avoid contact with suspected irritants/allergens until diagnosed.

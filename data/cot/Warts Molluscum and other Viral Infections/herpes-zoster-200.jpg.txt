@@ -1,0 +1,20 @@
+<think> First, I observe the distribution: the lesions are confined to the **front and outer side of one lower leg**, extending from mid-calf to the ankle. This **unilateral, linear pattern** suggests a possible dermatomal involvement, often associated with nerve pathways. </think> 
+
+Next, I note the primary lesions: **multiple scattered red bumps and nodules**, many with **central crusting**. The presence of crusting implies prior vesicular (blister-like) lesions that have ruptured or dried. The **scratch marks** indicate pruritus (itching) or discomfort, prompting the patient to scratch. The **larger, inflamed lesion** with possible pus or heavy crusting suggests a more severe focal reaction, potentially indicating secondary infection or a primary inflammatory process. The **merging of some lesions** and **surrounding discoloration** point to an acute inflammatory process affecting the skin diffusely in this region. 
+
+<think> Key features to consider:  
+- **Unilateral distribution**: Highly characteristic of herpes zoster (shingles), which follows a single dermatome.  
+- **Vesicular-to-crusting evolution**: Classic for viral etiologies like varicella-zoster virus (VZV).  
+- **Pain/itch**: Scratch marks align with neuropathic pain or pruritus in zoster.  
+- **Absence of systemic symptoms**: No mention of fever or malaise, but this doesn't rule out zoster.  
+</think> 
+
+Alternative diagnoses:  
+- **Eczema**: Typically bilateral/less localized; less likely given unilateral focus.  
+- **Folliculitis/Cellulitis**: Would show more diffuse redness/swelling; nodules less common.  
+- **Insect bites**: Usually more random clustering; not dermatomal.  
+- **Papular urticaria**: Often symmetric; lacks crusting evolution.  
+
+<think> The unilateral, dermatomal clustering with crusted vesicles/nodules strongly favors **herpes zoster**. The inflammation and scratch marks support this, as zoster causes neural inflammation and local skin irritation. </think> 
+
+Based on the description, this appears to be **herpes zoster (shingles)**. I recommend seeing a doctor promptly for antiviral treatment to reduce complications.

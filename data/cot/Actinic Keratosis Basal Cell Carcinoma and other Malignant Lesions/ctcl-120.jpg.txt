@@ -1,0 +1,13 @@
+<think> First, I observe the key features: widespread irregular reddish-brown to purplish patches on hairy torso skin. The patches are flat (non-elevated) with wavy/geographic borders that aren't sharply defined. Critically, there's no scaling, blistering, or surface change—just discoloration. The normal hair growth persisting through both affected and unaffected areas is significant, as many inflammatory or infectious conditions disrupt hair follicles. </think> 
+
+Next, I consider common differentials: 
+
+- **Tinea versicolor**: Causes discolored patches but typically shows fine scaling and affects sebaceous areas. The preserved hair and lack of scaling rule this out. 
+- **Pityriasis rosea**: Usually has a herald patch and follows dermatomal lines ("fir tree" pattern), with possible trailing scale. Not described here. 
+- **Post-inflammatory hyperpigmentation**: Would imply prior inflammation (e.g., eczema), but no history of preceding rash or scaling is noted. 
+- **Vascular disorders (e.g., livedo reticularis)**: Often net-like and symmetrical, not geographic/purplish. 
+- **Mycosis fungoides (CTCL)**: Fits well—early patches are often asymptomatic, irregular, reddish-brown/purplish, flat, with poorly defined borders. Hair sparing is common. The "geographic" morphology and chronicity align. 
+
+<think> The absence of surface changes (scale, vesicles) and the persistence of hair strongly suggest a neoplastic infiltrate like cutaneous T-cell lymphoma rather than an inflammatory or infectious process. The purplish hue can indicate lymphocytic infiltration in the dermis. Given the widespread distribution and irregular shapes, mycosis fungoides (the most common form of CTCL) is the leading diagnosis. Biopsy would be essential for confirmation. </think> 
+
+Based on the description, your skin changes are highly suggestive of **early-stage cutaneous T-cell lymphoma (CTCL)**, specifically mycosis fungoides. This requires prompt dermatological evaluation and a skin biopsy for definitive diagnosis.

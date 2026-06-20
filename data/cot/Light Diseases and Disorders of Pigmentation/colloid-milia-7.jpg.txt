@@ -1,0 +1,11 @@
+<think> First, I observe the key features described: - Location: Arm/forearm - Skin type: Light-colored, hairy - Primary lesions: Multiple raised papules and small nodules (flesh-colored to reddish) - Distribution: Concentrated in central and lower-left areas - Secondary features: Redness, excoriation (scratch marks), crusting, dry/rough texture - Additional detail: Single dark punctate mark. Next, I consider common dermatological conditions that fit this presentation: </think>
+
+1. **Prurigo nodularis**: Highly likely given the presence of discrete, excoriated nodules. This condition features intensely itchy nodules that patients scratch, leading to crusting and lichenification. The chronic scratching creates a vicious cycle. 
+2. **Folliculitis**: Possible due to hairy skin and papular lesions, but less likely as lesions aren't described as pustular or exclusively follicular. 
+3. **Atopic dermatitis**: Could explain dryness/redness, but the discrete nodules aren't typical; more commonly presents with diffuse eczema. 
+4. **Insect bites**: Might cause papules and excoriation, but the persistence and nodularity suggest chronicity. 
+5. **Keratosis pilaris**: Can cause rough, papular skin, but lesions are usually uniform and not typically excoriated/nodular. 
+
+<think> The excoriation marks and crusts strongly indicate **pruritus (itching)** and repetitive scratching. The transition from papules to nodules suggests chronic irritation. The dark punctate mark may be a thrombosed capillary from scratching. The localized distribution argues against systemic conditions. Given the nodular, excoriated lesions on extensor surfaces (arms) in a hairy individual, **prurigo nodularis** emerges as the most compelling diagnosis. This condition often arises from neurogenic itch or underlying eczema. </think>
+
+Based on the description, this appears to be **prurigo nodularis** – a chronic skin condition where repeated scratching leads to hard, itchy nodules. The excoriation marks and crusts indicate active scratching, likely worsening the lesions. I recommend seeing a dermatologist for confirmation; they may prescribe topical steroids, antipruritics, or light therapy to break the itch-scratch cycle. Avoid scratching to prevent further skin damage.

@@ -1,0 +1,12 @@
+<think> First, I observe the key features: unilateral red skin with thick, silvery-white scales that are flaking and peeling. The texture appears rough and hyperkeratotic (thickened). The sharp demarcation between affected and unaffected skin is notable, with normal skin on the right showing typical texture and no scaling. The scalpel lifting the scales reveals a small red spot beneath—this suggests pinpoint bleeding, likely the *Auspitz sign*, a classic indicator of disrupted capillaries beneath the scale. </think> 
+
+Next, I consider common dermatological conditions: 
+
+- **Psoriasis** often presents with well-demarcated, erythematous plaques covered in silvery scales. The Auspitz sign is highly specific to psoriasis when scales are removed. The asymmetric distribution here aligns with plaque psoriasis. 
+- **Tinea (fungal infection)** can cause scaling and redness but typically shows a more annular (ring-like) pattern with central clearing. The scales are usually finer, and the Auspitz sign is absent. 
+- **Eczema** tends to be more diffusely erythematous with less defined borders, finer scales, and intense itching—not highlighted here. 
+- **Seborrheic dermatitis** usually affects oily areas (scalp, face) with greasy, yellow scales, not silvery. 
+
+The silvery scale quality, pinpoint bleeding on scale removal, and sharp border strongly point to psoriasis. No vesicles, pustules, or diffuse involvement argue against infections or eczematous processes. 
+
+<think> Based on the description, this appears to be **psoriasis**, specifically plaque psoriasis. The silvery scales, well-defined border, and pinpoint bleeding (Auspitz sign) when scales are lifted are hallmark features. I recommend consulting a dermatologist for confirmation and management. </think>

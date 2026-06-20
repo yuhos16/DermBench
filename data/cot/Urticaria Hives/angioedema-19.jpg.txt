@@ -1,0 +1,22 @@
+<think> First, I observe the key features from the description:   - **Location**: Ventral forearm and wrist (flexor surface).   - **Morphology**: Multiple *raised*, *reddish*, *irregularly shaped plaques* that are *well-demarcated*.   - **Distribution**: Patches *vary in size* and extend from the wrist upward.   - **Skin context**: Hairy skin (rules out glabrous/palmoplantar conditions).   - **Absence of specific details**: No mention of scales, vesicles, pustules, or central clearing. </think>
+
+<think> Next, I consider common dermatological conditions that match this presentation:  
+1. **Psoriasis**: Classic plaques are well-demarcated, red, and raised but typically have *silvery scales* (not mentioned here). Less likely without scaling.  
+2. **Eczema (Dermatitis)**:  
+   - *Nummular eczema*: Coin-shaped, red, raised plaques; fits irregular shapes/sizes.  
+   - *Allergic/irritant contact dermatitis*: Red plaques in exposed areas (e.g., forearm/wrist); can be well-demarcated.  
+   - *Lichen simplex chronicus*: Thickened plaques from chronic rubbing, often on wrists.  
+3. **Lichen planus**: Violaceous (purple) papules/plaques, typically itchy. The description notes "reddish" (not purple), so less typical.  
+4. **Tinea corporis (ringworm)**: Annular lesions with central clearing; irregular shapes could occur but less common on hairy forearms.  
+5. **Granuloma annulare**: Ring-shaped lesions; doesn't fit irregular plaques.  
+6. **Pityriasis rosea**: Herald patch + Christmas-tree pattern; not plaque-focused. </think>
+
+<think> Key reasoning:  
+- **Well-demarcated, raised plaques** strongly suggest **chronic inflammatory dermatitis** (e.g., eczema or psoriasis).  
+- **Hairy forearm location** makes fungal infections less likely.  
+- **Absence of scales** leans toward *eczema* over psoriasis.  
+- **Ventral wrist/forearm** is a classic site for contact dermatitis (e.g., from watches, soap). </think>
+
+<think> Conclusion: The most probable diagnosis is **eczema** (likely subacute/chronic), such as nummular eczema or contact dermatitis, given the raised, irregular, red plaques without scaling. Psoriasis is a secondary consideration if scaling was missed in the description. </think>
+
+Based on the description, your skin shows signs of **eczema**, likely in a subacute or chronic form (such as nummular eczema or contact dermatitis). This would explain the raised, reddish, irregular plaques on your forearm and wrist. I recommend consulting a dermatologist for confirmation, as they might perform patch testing (if contact allergy is suspected) or a biopsy if needed.

@@ -1,0 +1,17 @@
+<think> First, I observe the location: the right temple and forehead, extending laterally from the eyebrow to the outer eye and upper eyelid. This is a **unilateral (one-sided) distribution**, which immediately suggests conditions that follow dermatomes (nerve pathways) or have asymmetric presentations. </think> 
+
+Next, I note the primary features:  
+1. A **reddish, inflamed patch** of skin.  
+2. **Scattered raised lesions** described as papules (small solid bumps) and possibly vesicles (tiny fluid-filled blisters).  
+3. The lesions are arranged in a **linear or clustered pattern** within the inflamed area.  
+
+<think> Key diagnostic considerations:  
+- **Herpes Zoster (Shingles)**: This fits strongly due to the unilateral pattern, dermatomal distribution (trigeminal nerve V1 branch), and the presence of papules/vesicles on an erythematous base. The temple/forehead/eyelid area is classic for ophthalmic shingles. The linear/clustered arrangement aligns with nerve involvement.  
+- **Allergic Contact Dermatitis**: Could cause redness and vesicles, but typically lacks a linear pattern unless from direct contact with an irritant (e.g., plant sap). Less likely to be strictly unilateral.  
+- **Impetigo**: Presents with vesicles/pustules, but usually crusted and bilateral; linear pattern is atypical.  
+- **Rosacea or Perioral Dermatitis**: Typically bilateral, central facial (nose/cheeks/mouth), and perioral dermatitis doesn’t involve the temple/eyelid.  
+- **Folliculitis**: Lesions centered on hair follicles; no linear clustering. </think> 
+
+The combination of **unilateral dermatomal distribution, vesicles, inflammation, and linear grouping** is highly suggestive of an acute viral process. The proximity to the eye (upper eyelid) raises concern for **herpes zoster ophthalmicus**, which requires urgent evaluation to prevent eye complications. 
+
+<think> Based on the description, this appears to be **herpes zoster (shingles)** affecting the ophthalmic division of the trigeminal nerve. I recommend seeing a healthcare provider immediately for antiviral treatment, especially given the eye involvement. </think>

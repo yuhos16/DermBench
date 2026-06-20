@@ -1,0 +1,18 @@
+<think> First, I observe the key features described:  
+- Location: Upper and mid-back  
+- Primary lesions:  
+  * Distinct linear, reddish streaks on the left upper back  
+  * Scattered separate reddish lesions  
+  * Rounded or slightly raised oval shapes  
+
+Next, I consider common dermatological conditions that fit this pattern:  
+1. **Contact dermatitis**: Linear streaks often suggest an external cause like plant exposure (e.g., poison ivy), especially with a combination of linear and discrete lesions. The streaks could correspond to where an irritant/allergen brushed the skin.  
+2. **Koebner phenomenon**: Linear lesions might indicate trauma-induced eruption in conditions like psoriasis or lichen planus, but the description lacks scaling (psoriasis) or violaceous color (lichen planus).  
+3. **Cutaneous larva migrans**: Serpiginous tracks are possible, but typically more winding and localized, not mixed with oval lesions.  
+4. **Fixed drug eruption (FDE)**: Usually presents with round/oval plaques, but linear forms are rare. The combination here is atypical for classic FDE.  
+5. **Artifactual dermatitis**: Linear lesions could indicate scratching, but the specific "streaks" suggest external contact rather than self-inflicted injury.  
+
+The **linear streaks are highly suggestive of an external trigger**. Their distinct pattern, combined with scattered oval lesions, best aligns with **allergic contact dermatitis** (e.g., from plants, chemicals, or topical products). The oval lesions may represent spillover contact or independent reactions.  
+</think>  
+
+Based on the image description, this appears most consistent with **allergic contact dermatitis**, likely due to exposure to an irritant or allergen that caused linear streaks where it contacted the skin, along with additional scattered reactive lesions. The combination of linear and oval lesions, along with the specific location on the upper and mid-back, supports this diagnosis, as these areas are often exposed to various allergens or irritants in daily life.

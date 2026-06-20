@@ -1,0 +1,16 @@
+<think> First, I observe multiple raised lesions forming plaques and linear patterns. The linear cluster on the left, composed of merged papules/nodules, is particularly striking. The lesions show color variation from natural skin tone to erythematous hues, indicating inflammation. The surface appears lobulated rather than scaly or vesicular. </think> 
+
+Next, I consider the morphology:  
+- **Linear arrangement**: Suggests the Koebner phenomenon (trauma-induced) or lymphatic spread, common in reactive/inflammatory conditions.  
+- **Plaques with lobulated texture**: Points to granulomatous inflammation, where immune cells form nodules under the skin.  
+- **Erythema without scale/ulceration**: Rules out psoriasis, eczema, or infections like cellulitis.  
+
+Differential diagnoses:  
+- **Granuloma annulare**: Typically annular (ring-shaped) lesions, not linear plaques.  
+- **Cutaneous sarcoidosis**: Often violaceous nodules, but linear patterns are rare.  
+- **Lichen striatus**: Linear but usually affects children with finer papules.  
+- **Infectious causes (e.g., deep fungal)**: Unlikely without scales, pustules, or necrosis.  
+
+The combination of **linear plaques**, **merging nodules**, **erythema**, and **lobulated texture** strongly aligns with **interstitial granulomatous dermatitis (IGD)**. IGD often presents as rope-like linear bands ("corded" morphology) due to dermal granulomatous inflammation, typically on trunk/limbs. It's frequently associated with autoimmune conditions (e.g., rheumatoid arthritis), supporting a reactive pathology. 
+
+Based on the description, this appears consistent with **interstitial granulomatous dermatitis**. It's an inflammatory condition where immune cells form granulomas in the dermis, creating linear or arcuate plaques. I recommend consulting a dermatologist for confirmation—likely via biopsy—and to check for underlying autoimmune disorders.

@@ -1,0 +1,12 @@
+<think> First, I observe a solitary, raised nodular lesion on the upper lip, near the vermilion border. The crusted surface with brownish-yellow material suggests a central keratin plug or ulceration with dried exudate, which is characteristic of rapidly evolving lesions. The erythematous (reddened) base indicates inflammation. The location in a sun-exposed area (face) is significant, as many proliferative skin lesions are UV-associated. </think>
+
+Next, I consider the differential diagnosis:  
+- **Squamous cell carcinoma (SCC)**: Common on sun-exposed sites, often ulcerated/crusted. However, SCC typically grows steadily rather than explosively.  
+- **Basal cell carcinoma (BCC)**: Rarely has a central keratin plug; more commonly pearly with telangiectasias.  
+- **Actinic keratosis**: Usually flat/scaly, not nodular.  
+- **Herpes simplex**: Vesicular initially, then crusted, but often multiple lesions with pain/tingling.  
+- **Keratoacanthoma (KA)**: Fits well—rapid growth over weeks, central keratin crater, inflamed base, and common on sun-exposed areas like the face. KA is often considered a subtype of SCC but has a distinct growth pattern (rapid expansion followed by potential regression).  
+
+<think> The lesion’s nodularity, central keratin crust, and inflammatory halo align classically with KA. The history isn't provided, but KA’s abrupt onset would support this. While SCC must be ruled out histologically, the clinical presentation strongly favors KA. </think>
+
+Based on the image description, this appears to be **keratoacanthoma**, a rapidly growing skin tumor often linked to sun exposure. It requires evaluation by a dermatologist for confirmation (possibly biopsy) and management due to its similarity to squamous cell carcinoma.

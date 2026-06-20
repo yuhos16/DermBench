@@ -1,0 +1,37 @@
+{
+  "metrics": [
+    "Accuracy",
+    "Safety",
+    "Medical Groundedness",
+    "Clinical Coverage",
+    "Reasoning Coherence",
+    "Description Precision"
+  ],
+  "dermbench": {
+    "cases": 4000,
+    "categories": 23,
+    "bundled_images": false,
+    "manifest": "data/manifest/dermbench_test.jsonl",
+    "cot_root": "data/cot",
+    "image_field": "dermnet_image_path",
+    "candidate_prompt": "prompts/candidate_generation.txt",
+    "judge_prompt": "prompts/dermbench_judge.txt"
+  },
+  "candidate_models_reported_in_paper": [
+    "Gemini-2.5 Flash",
+    "GPT-4o-mini",
+    "GPT-o4-mini",
+    "Vision-R1",
+    "InternVL3",
+    "LLaVA-o1",
+    "Qwen2.5-VL",
+    "HuatuoGPT-Vision",
+    "LLaVA-Med-7B"
+  ],
+  "judge_model_reported_in_paper": {
+    "name": "DeepSeek-R1",
+    "openai_compatible_model_default": "deepseek-reasoner",
+    "base_url_default": "https://api.deepseek.com",
+    "api_key_env": "DEEPSEEK_API_KEY"
+  }
+}

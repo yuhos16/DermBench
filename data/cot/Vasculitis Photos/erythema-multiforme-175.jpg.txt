@@ -1,0 +1,14 @@
+<think> First, I observe the bilateral presentation on the lower limbs, indicating a symmetric process. The primary lesions are **red papules**, some evolving into **blisters** (vesicles/bullae), with evidence of rupture, weeping, and crusting. The presence of **excoriations** strongly suggests significant pruritus (itching). **Crusted lesions** indicate secondary changes from scratching or natural disease progression, while **post-inflammatory hyperpigmentation** implies chronicity or prior inflammatory phases. </think> 
+
+Next, I consider key patterns: - **Blister formation** narrows the focus to vesiculobullous disorders, inflammatory conditions, or severe eczematous reactions. - **Symmetry and distribution** rule out localized infections (e.g., cellulitis) or external insults (e.g., contact dermatitis from asymmetric exposure). - **Excoriations and crusting** point to intense pruritus, common in conditions like eczema, infestations, or autoimmune blistering disorders. - **Hyperpigmentation** suggests recurrent or persistent inflammation, not typical of acute, self-limiting conditions. 
+
+Differential diagnosis: 
+1. **Bullous pemphigoid**: Autoimmune disorder with tense blisters, but typically affects older adults and involves trunk/flexures more than legs. Ruptured blisters fit, but symmetry and papules are less classic. 
+2. **Dermatitis herpetiformis**: Intensely itchy papules/vesicles on extensor surfaces (knees common), symmetric, with excoriations. Strongly associated with gluten sensitivity. Hyperpigmentation aligns with chronicity. 
+3. **Prurigo nodularis**: Hyperkeratotic papules/nodules with excoriations, but blisters are rare. 
+4. **Scabies**: Can cause papules, vesicles, and excoriations, but typically involves interdigital spaces/waist. Bilateral leg involvement is possible but blisters are atypical. 
+5. **Severe eczema (e.g., dyshidrotic or nummular)**: Papules, vesicles, crusting, and hyperpigmentation fit well. Symmetric leg involvement supports this. 
+
+The combination of **blisters + intense pruritus + symmetry + chronic pigment changes** is highly suggestive of **dermatitis herpetiformis** or **chronic vesicular eczema**. The lack of mucosal involvement or target lesions makes erythema multiforme unlikely. Given the prominence of blisters and excoriations, dermatitis herpetiformis is a leading consideration. 
+
+<think> Based on the description, your skin appears to show features most consistent with **dermatitis herpetiformis**, an intensely itchy, blistering rash often linked to gluten sensitivity. However, **severe eczema** is also possible. I recommend consulting a dermatologist for confirmation—they may perform a skin biopsy or blood tests to differentiate between these conditions. </think>

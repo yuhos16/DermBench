@@ -1,0 +1,15 @@
+<think> First, I observe the primary feature: multiple irregular patches of hypopigmentation or depigmentation on the face. This suggests pigment loss, which narrows down conditions involving melanin disruption. The distribution is key—concentrated around the eyes (periorbital), mouth (perioral), and cheeks/forehead. This is a common pattern for facial inflammatory conditions. </think>
+
+<think> Next, I note the subtle textural changes: slight dryness or fine scaling, particularly around the mouth. Scaling implies a disrupted epidermal barrier, often seen in chronic inflammatory or eczematous processes. The absence of overt redness, vesicles, or weeping rules out acute eczema or infections. </think>
+
+<think> Considering common facial hypopigmentation disorders: 
+- **Vitiligo**: Typically shows sharp, chalk-white depigmentation without scaling. The irregular borders here fit, but scaling is atypical. 
+- **Pityriasis alba (PA)**: Hypopigmented patches with fine scaling, especially on the face, in children/young adults. The perioral/periorbital emphasis and scaling align perfectly. 
+- **Post-inflammatory hypopigmentation**: Could follow eczema, but no history of prior rash is given. 
+- **Tinea versicolor**: Scaling is common, but facial involvement is rare, and lesions are usually more diffuse. </think>
+
+<think> The combination of *hypopigmentation, facial-centric distribution (especially perioral/periorbital), and fine scaling* strongly points toward pityriasis alba. It's often linked to mild eczema or dryness, explaining the texture. Drug eruptions typically cause widespread, morbilliform rashes or hyperpigmentation—not localized hypopigmentation with scaling. </think>
+
+<think> Thus, the clinical picture best matches pityriasis alba. </think> 
+
+Based on the description, your skin shows signs of **pityriasis alba**, a common, benign condition often related to mild eczema or dryness. It typically causes light patches with fine scaling on the face, especially around the mouth and eyes.

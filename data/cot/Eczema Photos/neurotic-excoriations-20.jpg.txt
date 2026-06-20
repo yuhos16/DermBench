@@ -1,0 +1,17 @@
+<think> First, I observe the key characteristics described: numerous scattered lesions with **varying sizes and stages**. The active lesions have **red/pink borders** with **central ulceration, crusting, or dark necrotic tissue**, while older lesions appear as **flattened hyperpigmented macules/patches**. The surrounding skin shows **sun damage and mottling**, suggesting chronic sun exposure. </think> 
+
+Next, I consider the morphology:  
+- **Central necrosis/ulceration** is a hallmark of tissue destruction, often seen in vasculopathic or autoimmune processes.  
+- **Polymorphic presentation** (mixed active and healing lesions) indicates a recurring or evolving condition.  
+- **Photodistribution** (arms/shoulders/upper back) implies sun exposure is a trigger or aggravator.  
+
+Differential diagnoses:  
+1. **Vasculitis** (e.g., leukocytoclastic vasculitis): Could cause ulceration and necrosis but typically presents with palpable purpura, not usually this polymorphic.  
+2. **Bullous pemphigoid**: Blisters and erosions may occur, but central necrosis is atypical; lesions are often symmetrical.  
+3. **Erythema multiforme**: Target-like lesions fit, but necrosis is rare and distribution is often acral.  
+4. **Cutaneous lupus**: Chronic lesions with scarring/dyspigmentation in sun-exposed areas align well; ulceration and necrosis can occur in discoid or subacute forms.  
+5. **Neurotic excoriations**: Self-inflicted lesions from scratching, but they’re usually linear, lack necrosis, and wouldn’t show this degree of polymorphic evolution or photodistribution.  
+
+<think> The **combination of central necrosis, photodistribution, and scarring hyperpigmentation** strongly suggests an autoimmune process like **cutaneous lupus erythematosus**. The chronicity and sun damage further support this. Neurotic excoriations are unlikely due to the absence of linear excoriations, uniform depth, or behavioral context. </think> 
+
+Based on the description, this appears consistent with **cutaneous lupus erythematosus**, likely a discoid or subacute variant. I recommend seeing a dermatologist for biopsy confirmation and management. Sun protection is critical.

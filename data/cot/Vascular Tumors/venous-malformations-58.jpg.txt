@@ -1,0 +1,27 @@
+<think> First, I observe the **location and distribution**: The affected area is unilateral (right side of face), following a linear path from below the nostril, across the nasolabial fold, to the corner of the mouth and upper lip. This suggests a possible neurovascular or developmental pattern. </think> 
+
+<think> Next, I note the **color**: Reddish to purplish discoloration is prominent. Purple hues often indicate venous involvement (deoxygenated blood), contrasting with arterial (bright red) or capillary (pink/red) malformations. </think> 
+
+<think> Then, I assess the **texture and morphology**: 
+- Thickened, raised, irregular skin with papules/nodules suggests tissue hypertrophy or vascular nodules. 
+- Linear/streaky patterns hint at dilated vascular channels. 
+- Induration (firmness) and possible scarring imply chronicity and possible minor trauma susceptibility. </think> 
+
+<think> Now, I consider **differential diagnoses**: 
+1. **Port-wine stain (capillary malformation)**: Typically flat, pink-red, and uniform—not raised/nodular. 
+2. **Infantile hemangioma**: Usually bright red, proliferative, and regresses; uncommon in this linear pattern. 
+3. **Lymphatic malformation**: Often vesicular (fluid-filled), not typically purplish. 
+4. **Kaposi sarcoma**: Purple nodules, but usually multifocal and associated with immunosuppression. 
+5. **Venous malformation**: Matches purplish color, nodularity, linear vessels, and soft-tissue thickening. Location near oral mucosa is classic. </think> 
+
+<think> The **combination of purplish nodules, linear streaks, and chronic induration** strongly points to abnormal venous structures expanding over time. No mention of pulsatility, warmth, or rapid growth rules out arterial lesions. The absence of bleeding/ulceration argues against aggressive tumors. </think> 
+
+<think> Conclusion: Features align best with a **venous malformation**, a congenital error in vein development causing slow-flow vascular anomalies that grow proportionally with the patient and thicken with age. </think> 
+
+Based on the description, this appears to be a **venous malformation**. These are benign vascular lesions caused by abnormally formed veins that gradually expand. They often present as: 
+- **Purple/blue** compressible masses 
+- Surface **nodules** or **ridges** (dilated veins) 
+- **Swelling/thickening** in affected tissue 
+- Common in **head/neck** regions like lips and cheeks 
+
+I recommend consulting a dermatologist or vascular anomalies specialist for confirmation (often via MRI/ultrasound) and discussion of management options like laser therapy or sclerotherapy.

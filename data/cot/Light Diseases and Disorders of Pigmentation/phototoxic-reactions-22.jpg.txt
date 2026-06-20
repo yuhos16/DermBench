@@ -1,0 +1,18 @@
+<think> First, I observe the key features described: a large irregular patch with **distinct borders**, **erythema (redness)**, **pronounced hyperpigmentation (reddish-brown)**, and a **slightly textured surface** on the **sun-exposed outer forearm**. The location is critical—sun-exposed areas are prone to specific reactions. </think> 
+
+Next, I consider common dermatological conditions:  
+- **Contact dermatitis** often shows ill-defined borders, vesicles, or scaling, but the distinct borders and texture here don't fully align.  
+- **Fixed drug eruption** causes well-demarcated plaques but usually recurs in the same spot with drug exposure; no history is provided.  
+- **Post-inflammatory hyperpigmentation** is a result, not a primary cause, and the active erythema suggests ongoing/recent inflammation.  
+- **Lichen planus** typically has violaceous papules with Wickham striae, not a large patch.  
+
+<think> The **combination of erythema + hyperpigmentation + distinct borders + sun-exposed site** strongly points to **phototoxicity**. Phototoxic reactions occur when UV light interacts with topical agents (e.g., plants, perfumes) or systemic drugs (e.g., antibiotics), causing acute redness, swelling, or blistering, followed by hyperpigmentation as it heals. The texture may represent residual scaling or mild desquamation. The sharp borders mirror the area of chemical exposure (e.g., brushing against phototoxic plants like limes or parsley). </think> 
+
+Ruling out alternatives:  
+- No scaling/plaques for psoriasis.  
+- No vesicles/weeping for acute eczema.  
+- No central clearing or bull's-eye for Lyme disease.  
+
+<think> Thus, phototoxicity best explains all features. </think> 
+
+Based on the description, this appears to be a **phototoxic reaction**, likely triggered by exposure to UV light combined with a photosensitizing agent (like certain plants, medications, or chemicals). The erythema suggests recent inflammation, while the hyperpigmentation is a common sequela. I recommend consulting a dermatologist to identify the specific trigger and discuss sun-protection strategies.

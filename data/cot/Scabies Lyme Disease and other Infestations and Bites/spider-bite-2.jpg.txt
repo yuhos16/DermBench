@@ -1,0 +1,13 @@
+<think> First, I observe the key features described: the condition is localized to the dorsal hand, sparing fingers and wrist. The skin shows erythema (redness), inflammation, small raised bumps (papules/vesicles), scaling, flaking, and rough texture. This suggests an inflammatory process. </think>
+
+Next, I consider common dermatological conditions affecting hands: 
+
+- **Contact dermatitis** (allergic or irritant): Fits well—redness, vesicles, scaling from exposure to allergens/irritants (e.g., soaps, chemicals). Dorsal hand involvement is classic due to thinner skin. 
+- **Dyshidrotic eczema**: Typically presents with vesicles on palms/sides of fingers, but can extend dorsally. Scaling aligns with chronic phases. 
+- **Psoriasis**: Plaques with silvery scales are common, but vesicles are atypical. Less likely without thicker plaques. 
+- **Fungal infection**: Scaling/redness occur, but vesicles are uncommon, and it often spreads asymmetrically. 
+- **Insect bites**: Usually singular or clustered papules with central punctum; less likely given diffuse scaling and widespread inflammation. 
+
+<think> The absence of spreading beyond the hand, combined with vesicles/scaling, points strongly toward an eczematous process. Contact dermatitis is a top differential given the dorsal hand's susceptibility to environmental triggers. Occupational/recent exposures (e.g., detergents, plants) could be key. </think> 
+
+Based on the description, this appears consistent with **contact dermatitis**, likely from an irritant or allergen. I recommend consulting a dermatologist for patch testing and avoiding potential triggers until evaluated.

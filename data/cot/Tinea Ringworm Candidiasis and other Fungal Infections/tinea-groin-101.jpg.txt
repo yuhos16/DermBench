@@ -1,0 +1,13 @@
+<think> First, I observe the key features described: a distinct band of erythema (redness) with a **raised, wavy/serpiginous border**, localized to the scalp or forehead. Within this band, there is **whitish-yellow scaling and crusting**. The surrounding skin shows **diffuse erythema and mild scaling**. This suggests an active, advancing inflammatory process. </think>
+
+<think> Next, I consider the location (hair-bearing scalp/forehead) and morphology. The **serpiginous (wavy) advancing border** is highly characteristic of an expanding fungal infection. Scaling and crusting are common in inflammatory dermatophyte infections, where the fungus invades the hair follicles and stratum corneum. The diffuse background erythema and scaling indicate a broader inflammatory response. </think>
+
+<think> I then rule out other common scalp conditions:   
+- **Psoriasis**: Typically shows well-demarcated plaques with thick, silvery scales, not a serpiginous border.   
+- **Seborrheic dermatitis**: Features greasy, yellowish scales on erythematous skin but lacks a distinct raised border.   
+- **Contact dermatitis**: Would show diffuse irritation without a defined, advancing edge.   
+- **Lupus erythematosus**: Often has scarring, follicular plugging, and atrophy, not described here. </think>
+
+<think> The **raised, wavy border** is a hallmark of **tinea infections** (dermatophytosis), where the fungus spreads centrifugally. Scaling/crusting suggests secondary inflammation or bacterial involvement. Given the scalp location, **tinea capitis** is the most likely diagnosis. </think>
+
+Based on the description, this appears to be **tinea capitis**, a fungal infection of the scalp. The raised, wavy border with scaling is classic for this condition. I recommend consulting a dermatologist for confirmation (e.g., KOH microscopy) and appropriate antifungal treatment.

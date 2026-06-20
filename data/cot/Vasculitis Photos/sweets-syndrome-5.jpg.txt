@@ -1,0 +1,11 @@
+<think> First, I observe the key features: bilateral symmetric distribution on lower extremities, reddish-purple to violaceous lesions, discrete round/oval patches/plaques, some slightly raised. The symmetry rules out localized infections or trauma. The color suggests vascular involvement (extravasated blood) or deep dermal inflammation. </think> 
+
+Next, I consider morphology: discrete lesions (not confluent) with some elevation indicate plaque formation rather than simple macules. This points toward inflammatory or infiltrative processes rather than purely vascular conditions like petechiae. 
+
+<think> Differential diagnosis: - **Vasculitis**: Classic for palpable purpura, but lesions are usually more confluent and petechial. - **Pigmented purpuric dermatoses**: Show similar colors but typically present as cayenne pepper-like speckles, not plaques. - **Sarcoidosis**: Can show violaceous plaques, but usually asymmetric and nodular. - **Lupus erythematosus**: May present with plaques, but often with scale/atrophy and photodistribution. - **Sweet's syndrome**: Fits well: abrupt onset tender plaques, violaceous hue, often asymmetric but can be bilateral. Neutrophilic infiltration causes raised lesions. Lower limbs are common sites. </think> 
+
+The absence of scale, necrosis, or ulceration argues against vasculitis or infection. Superficial veins are likely incidental/unrelated. The acute presentation with symmetric plaques aligns best with Sweet's syndrome, especially given the characteristic color and elevation. 
+
+<think> The presentation strongly suggests **Sweet's syndrome** (acute febrile neutrophilic dermatosis), an inflammatory disorder often associated with underlying conditions like infection, malignancy, or autoimmune disease. I recommend urgent dermatology evaluation for biopsy confirmation and systemic assessment. </think> 
+
+In conclusion, the combination of bilateral symmetric distribution, violaceous color, discrete raised lesions, and the absence of other significant features strongly supports a diagnosis of Sweet's syndrome. This condition warrants further investigation to rule out any associated systemic issues.

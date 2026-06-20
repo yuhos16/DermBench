@@ -1,0 +1,17 @@
+<think> First, I observe the key features described: the condition affects the entire palm and all fingers symmetrically, extending to the wrist/forearm. The skin shows widespread erythema (redness), hyperkeratosis (thickening) with accentuated skin markings, and prominent scaling described as white/silvery flakes. There's associated dryness, fissuring (cracking) in skin creases, swelling (edema), and tightness. The extension to the wrist/forearm suggests possible Koebnerization (lesions appearing at sites of trauma). </think> 
+
+Next, I consider common palmoplantar dermatoses: 
+
+1. **Chronic hand eczema:** Can cause redness, scaling, cracking, and swelling. However, it often shows vesicles (blisters) in acute phases, is intensely itchy, and scaling is typically less thick and silvery than described. Distribution might be patchier. 
+
+2. **Tinea manuum (fungal infection):** Usually asymmetric, often affects one palm with a "two-feet-one-hand" pattern. Scaling tends to be peripheral/collarette-like, not uniform silvery plaques. 
+
+3. **Psoriasis:** Characterized by well-demarcated erythematous plaques with thick, adherent silvery scales. Palmoplantar psoriasis specifically presents with symmetric involvement, diffuse hyperkeratosis, fissuring, and scaling. Accentuated skin lines, redness, and extension are classic. Koebnerization (seen here on wrist/forearm) is highly supportive. 
+
+4. **Palmoplantar pustulosis:** Features sterile pustules – not described here. 
+
+5. **Keratolysis exfoliativa:** Superficial peeling without significant redness or thickening. 
+
+<think> The *silvery-white scaling*, *symmetric and complete palmar involvement*, *thickening*, *fissures*, and *Koebner-like extension* strongly point toward **palmoplantar psoriasis**. The absence of vesicles, pustules, or asymmetry helps rule out eczema or fungal infection. </think> 
+
+Based on the description, this appears to be **psoriasis affecting the palms and soles (palmoplantar psoriasis)**. It's characterized by the symmetrical redness, thick silvery scaling, skin thickening, cracking, and extension observed in your case. I recommend consulting a dermatologist for confirmation (possibly via biopsy) and tailored treatment, which may include topical steroids, vitamin D analogs, phototherapy, or systemic agents.

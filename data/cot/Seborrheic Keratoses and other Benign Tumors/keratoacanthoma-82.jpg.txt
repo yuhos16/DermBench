@@ -1,0 +1,14 @@
+<think> First, I observe the prominent lesion: it's raised, circular, and has a **rolled border** – a classic feature of certain proliferative skin lesions. The central ulceration with yellowish-brown crusting/debris suggests **keratin accumulation**, often seen in rapidly growing tumors. The lesion's location (sun-exposed cheek) and the surrounding skin showing **significant photoaging** (wrinkles, dark spots, redness) point to chronic UV damage as a key factor. </think>
+
+Next, I consider the morphology:  
+- **Rolled edges + central keratin plug** are hallmark signs of **keratoacanthoma (KA)**, which often grows rapidly and can mimic squamous cell carcinoma (SCC).  
+- The background of actinic damage (smaller reddish bumps likely actinic keratoses) supports this, as KA arises in sun-damaged skin.  
+
+Differential diagnoses:  
+- **Squamous cell carcinoma (SCC)**: Shares similar features (ulceration, rolled border), but KA typically has a more symmetrical, crateriform appearance.  
+- **Basal cell carcinoma (BCC)**: Less likely; BCC often has a pearly edge, not rolled, and rare central keratin plug.  
+- **Nodular melanoma**: Unlikely without asymmetry/multicolor pigmentation.  
+
+<think> The **rapid growth** implied by the description (prominent, raised lesion with central crust) strongly favors KA over slower-growing SCC. While KA is often self-resolving, its clinical and histological overlap with SCC necessitates biopsy for confirmation. </think> 
+
+Based on the description, this appears to be **keratoacanthoma**, a rapidly growing tumor linked to sun exposure that requires prompt evaluation by a dermatologist to rule out squamous cell carcinoma. A biopsy is essential for definitive diagnosis.

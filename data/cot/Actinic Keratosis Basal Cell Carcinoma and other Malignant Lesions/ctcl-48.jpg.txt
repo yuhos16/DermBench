@@ -1,0 +1,11 @@
+<think> First, I observe that the lesions are described as discrete, reddish, raised papules and nodules. This suggests a reactive or inflammatory process rather than a flat rash. The presence of excoriation (scratch marks) with crusting and abrasions indicates intense pruritus (itching), which is a key diagnostic clue. The distribution—unilateral upper back, shoulder, neck, and upper arm—is notable, as many common dermatoses (e.g., eczema, psoriasis) are typically bilateral or symmetrical. The surrounding skin discoloration likely represents post-inflammatory hyperpigmentation from chronic scratching. </think>
+
+Next, I consider differential diagnoses:  
+- **Prurigo nodularis**: Characterized by intensely itchy nodules with excoriation, but often bilateral.  
+- **Folliculitis**: Could cause papules, but usually centered on hair follicles with pustules; excoriation is less prominent.  
+- **Acne vulgaris**: Unlikely, as lesions aren’t comedonal and location (back/shoulder) isn’t exclusive.  
+- **Neuropathic itch (e.g., notalgia paresthetica)**: Fits well—unilateral, localized itch (often mid-back), leading to scratching-induced papules/nodules and hyperpigmentation.  
+
+<think> The unilateral distribution and neuropathic pattern (localized pruritus without primary rash) point strongly to **notalgia paresthetica**, a sensory neuropathy causing chronic itch, scratching, and secondary skin changes. The absence of vesicles, scales, or weeping makes inflammatory conditions like eczema less likely. </think>
+
+Based on the description, your skin shows signs of **notalgia paresthetica**, a condition involving chronic neuropathic itch in a specific area (often the mid-back), leading to scratching, papule/nodule formation, and hyperpigmentation. Consult a dermatologist for confirmation, as topical treatments or nerve-targeting therapies may help.

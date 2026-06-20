@@ -1,0 +1,24 @@
+<think> First, I observe the distribution: bilateral shoulders and upper chest, extending to the collarbone and sternum. This symmetry is notable. The lesions are described as red, raised, and varied in size—some small bumps, others larger patches. The presence of scratching/irritation suggests pruritus (itching), which is common in inflammatory or hypersensitivity reactions. The larger irregular patch near the breastbone stands out as a focal point. Crucially, the surrounding skin is normal, indicating localized pathology rather than a diffuse condition. </think> 
+
+Next, I consider morphology:  
+- **Red, raised lesions**: Points to inflammation (e.g., vasodilation, edema).  
+- **No mentioned vesicles, scales, or pustules**: Rules out eczema, psoriasis, or bacterial/fungal infections.  
+- **Irritation from scratching**: Suggests acute discomfort, common in allergic or drug reactions.  
+
+Now, I evaluate common causes:  
+1. **Contact dermatitis**: Unlikely—typically asymmetric and linked to direct irritant/allergen exposure. The bilateral symmetry here suggests systemic involvement.  
+2. **Folliculitis**: Improbable—lesions would center on hair follicles, and morphology doesn’t match (no pustules).  
+3. **Viral exanthem (e.g., measles)**: Unlikely—usually widespread, not localized to chest/shoulders.  
+4. **Urticaria (hives)**: Possible, but urticaria lesions are transient (hours), while these appear fixed and irritated.  
+
+<think> The **fixed, discrete lesions** with a larger central patch near the sternum are highly suggestive of a **fixed drug eruption (FDE)**. FDE often presents with:  
+- Symmetric or asymmetric red plaques/blisters.  
+- Recurrence in the same locations upon re-exposure to the offending drug.  
+- Predilection for face, hands, genitals—but **torso involvement is common**.  
+- Pruritus and irritation due to inflammatory mediators. </think> 
+
+The lack of systemic symptoms (e.g., fever) or scaling supports this over infections or autoimmune conditions. 
+
+<think> Conclusion: The clinical picture aligns best with a fixed drug eruption, likely triggered by a medication (e.g., NSAIDs, antibiotics). </think> 
+
+Based on the description, this appears to be a **fixed drug eruption**. It’s a reaction to a medication you’ve taken, causing these distinct red patches to recur in the same spots. I recommend consulting a dermatologist to identify the triggering drug and discuss management.

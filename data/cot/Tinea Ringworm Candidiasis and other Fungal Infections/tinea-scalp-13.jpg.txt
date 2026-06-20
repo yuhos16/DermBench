@@ -1,0 +1,18 @@
+<think> First, I observe multiple key features in this description: - **Scalp**: Patchy hair thinning/loss with visible scaling/flaking. This suggests an inflammatory or infectious process affecting hair follicles. - **Nape/upper back**: Circular/oval hypopigmented lesions with fine scaling. This morphology is classic for a superficial fungal infection (dermatophytosis). - **Associated features**: Reddish/hyperpigmented spots near the hairline, suggesting possible inflammation or secondary changes. </think>
+
+Next, I consider differential diagnoses: 
+1. **Tinea capitis/corporis**: The scaling alopecia on the scalp + annular scaly lesions on the body are highly characteristic. Fungal infections often spread from scalp to adjacent skin. 
+2. **Psoriasis**: Could cause scaling, but lesions are typically thicker (silvery scales), symmetrical, and scalp lesions rarely cause patchy alopecia like this. 
+3. **Seborrheic dermatitis**: Causes scaling but usually diffuse greasy scales without distinct hair loss or annular body lesions. 
+4. **Alopecia areata**: Causes hair loss but lacks scaling or hypopigmented body lesions. 
+
+<think> The **combination** is telling: - Scalp hair loss *with scaling* points strongly to tinea capitis (fungal scalp infection). - Concurrent annular, scaly, hypopigmented lesions on the neck/back (tinea corporis) suggest the same pathogen spread to glabrous skin. - Fungal infections often cause hypopigmentation in darker skin tones. </think>
+
+Finally, I rule out alternatives: 
+- No pustules/oozing (unlike bacterial infection). 
+- No thick plaques (unlike psoriasis). 
+- No diffuse erythema (unlike seborrhea). 
+
+<think> Conclusion: The presentation is highly consistent with a **dermatophyte infection**, primarily tinea capitis on the scalp with secondary tinea corporis on the body. </think> 
+
+Based on the description, you likely have **tinea capitis (scalp ringworm)** with possible spread to the neck/back (**tinea corporis**). This is a fungal infection requiring prescription antifungal medication (oral for scalp, topical for body). See a dermatologist for confirmation via skin scraping/KOH test and appropriate treatment.
