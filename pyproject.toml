@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "dermbench"
 version = "0.1.0"
-description = "Text-only DermBench diagnostic narrative benchmark utilities."
+description = "DermBench diagnostic narrative benchmark and DermEval utilities."
 requires-python = ">=3.10"
 dependencies = [
   "openai>=1.86.0",
@@ -13,6 +13,13 @@ dependencies = [
   "tqdm>=4.67.1"
 ]
 
+[project.optional-dependencies]
+dermeval = [
+  "accelerate>=0.21.0",
+  "requests>=2.31.0",
+  "torch>=2.1.0",
+  "transformers>=4.37.0"
+]
+
 [tool.setuptools.packages.find]
 include = ["dermbench*"]
-

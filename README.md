@@ -2,16 +2,16 @@
 
 ![DermBench overview](assets/introduction.png)
 
-DermBench is the reference-based benchmark component from **Towards Trustworthy Dermatology MLLMs: A Benchmark and Multimodal Evaluator for Diagnostic Narratives**. It evaluates dermatology image-to-diagnostic-narrative outputs with a fixed candidate-generation prompt, clinician-certified reference CoT texts, and six clinical scoring dimensions.
+DermBench is the public benchmark and evaluator repository for **Towards Trustworthy Dermatology MLLMs: A Benchmark and Multimodal Evaluator for Diagnostic Narratives**. It supports dermatology image-to-diagnostic-narrative evaluation with fixed prompts, clinician-certified reference CoT texts, DermEval reference-free evaluation utilities, and six clinical scoring dimensions.
 
-This repository contains the DermBench text release and supporting utilities. It does **not** redistribute DermNet images.
+This repository contains the DermBench text release and minimal DermEval code needed to reproduce the benchmark interfaces. It does **not** redistribute DermNet images.
 
 ## 📦 Contents
 
 - `data/`: 4000 CoT/reference texts, manifest, category counts, and source audit.
-- `dermbench/`: lightweight Python helpers plus benchmark prompts/config.
+- `dermbench/`: lightweight Python helpers, benchmark prompts/config, and DermEval utilities.
 - `scripts/`: validation and optional local evaluation utilities.
-- `docs/`: data mapping, scoring criteria, DermNet notice, and DermEval placeholder.
+- `docs/`: data mapping, scoring criteria, DermNet notice, and DermEval guide.
 - `assets/`: README figure.
 
 The CoT files were prepared from the source text tree `Dermnet2/step4_txt/test`. Candidate model outputs, result files, and legacy runner scripts are intentionally excluded.
@@ -97,7 +97,16 @@ python scripts/validate_release.py --image-root "$DERMNET_TEST_ROOT"
 
 ## 🧪 DermEval
 
-DermEval is the reference-free evaluator described in the paper. Its release is intentionally left as a placeholder in this repository while the DermBench text benchmark is prepared.
+DermEval is the reference-free evaluator component described in the paper. The repository includes its six-dimension rubric, prompt builder, deterministic score parser, raw-record conversion helper, and an optional local inference entrypoint for compatible LLaVA-style checkpoints.
+
+Core utilities can be used without any API credentials:
+
+```bash
+python -m dermbench.dermeval.score_parser path/to/dermeval_output.txt
+python -m dermbench.dermeval.convert_to_llava_sft --input data/dermeval_records.jsonl --output outputs/dermeval_sft.json
+```
+
+See `docs/dermeval.md` for the record schema, output format, and optional local inference notes.
 
 ## 📄 License
 
